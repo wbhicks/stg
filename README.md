@@ -4,7 +4,7 @@ repo to hold (in its gh-pages branch) content being staged for acct-lvl Pages si
 Browse at http://wbhicks.github.io/stg
 
 
-Hello world
+Hello world [[LICENSE]]
 
 ---
 
