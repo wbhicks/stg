@@ -1,16 +1,11 @@
 # Example Gemini blog post
 
-This first body line introduces a paragraph of sample text from Wikipedia:
+(xvi) This first body line introduces a paragraph of sample text from Wikipedia:
 
 The Canada goose (Branta canadensis) is a large wild goose with a black head and neck, white cheeks, white under its chin, and a brown body. It is native to the arctic and temperate regions of North America, and its migration occasionally reaches across the Atlantic to northern Europe. It has been introduced to the United Kingdom, Ireland, Finland, Sweden, Denmark, New Zealand, Japan, Chile, Argentina and the Falkland Islands. Like most geese, the Canada goose is primarily herbivorous and normally migratory; it tends to be found on or close to fresh water.
 
 Credit for the preceding: Wikipedia
 
-Sample gemtext:
-
-XVI
-
-* A
-* B
+gh := t
 
 Last line, no CR/LF
