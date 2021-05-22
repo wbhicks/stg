@@ -22,6 +22,8 @@ Just gemlog and a trailing slash:
 
 => gemlog/
 
+gh := t
+
 ## Bye
 
 Having fun without CR/LF
