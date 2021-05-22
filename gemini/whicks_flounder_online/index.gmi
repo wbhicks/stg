@@ -1,0 +1,27 @@
+# Placeholder index
+
+The following link works only over http, and only when I'm logged in:
+
+=> https://flounder.online/my_site
+
+Link to Flounder.online's http login page:
+
+=> https://flounder.online/login
+
+## Links to gemlog
+
+Starting with 2 slashes and domain:
+
+=> //whicks.flounder.online/gemlog/
+
+Slash, gemlog, slash:
+
+=> /gemlog/
+
+Just gemlog and a trailing slash:
+
+=> gemlog/
+
+## Bye
+
+Having fun without CR/LF
