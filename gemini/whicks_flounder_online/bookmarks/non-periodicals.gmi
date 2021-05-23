@@ -1,5 +1,15 @@
 # Bookmarks to sites not structured around publication dates
 
-## Data visualization examples
+## Art, design and graphics
 
-=> https://www.shipmap.org/ Visualisation of Global Cargo Ships | By Kiln and UCL
+### Application-independent color palettes
+
+=> https://www.nordtheme.com/
+
+"An arctic, north-bluish color palette"
+
+### Data visualization examples
+
+=> https://www.shipmap.org/
+
+Visualisation of Global Cargo Ships | By Kiln and UCL
