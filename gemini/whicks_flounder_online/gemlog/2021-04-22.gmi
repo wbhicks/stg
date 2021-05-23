@@ -1,0 +1,7 @@
+# Published on this date
+
+=> https://www.nytimes.com/2021/04/22/world/australia/peter-warner-dead.html
+
+"Peter Warner, 90, Seafarer Who Discovered Shipwrecked Boys, Dies - That story, which has sometimes been called a real-life 'Lord of the Flies,' was just one episode in a life filled with adventure."
+
+by := Clay Risen
