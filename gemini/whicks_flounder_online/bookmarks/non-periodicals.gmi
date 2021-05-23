@@ -1,6 +1,26 @@
-# Bookmarks to book reviews, and to sites (or interactive features) that are not structured around publication dates
+# Bookmarks to book ex4ts/reviews, and to sites (or interactive features) that are not structured around publication dates
 
-## Paired book reviews
+## Book ex4ts
+
+=> https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html
+
+Ex4t of ("Surely you're joking, Mr. Feynman" by Richard Feynman, 1985)
+
+> "Why did I enjoy it? ... piddling around with the wobbling plate."
+
+=> https://edithwhartonsociety.wordpress.com/2014/08/08/reply-edith-wharton-on-henry-jamess-asking-for-directions/
+
+Ex4t of ("A Backward Glance" by Edith Wharton)
+
+posted by := Donna Campbell
+
+=> http://m.nautil.us/issue/58/self/heredity-beyond-the-gene
+
+Ex4t of ("Extended Heredity: A New Understanding of Inheritance and Evolution" by Russell Bonduriansky and Troy Day)
+
+## Book reviews
+
+### Paired book reviews
 
 => https://www.nytimes.com/2021/04/21/books/review/louis-menand-the-free-world.html
 
@@ -15,6 +35,29 @@ Review of ("THE FREE WORLD: Art and Thought in the Cold War" By Louis Menand)
 
 by := Mark Greif
 on := 2021-05-05
+
+### Compound book reviews
+
+=> https://www.atlasobscura.com/articles/cookbook-from-soviet-union
+
+Review of ("The Book About Delicious and Healthy Food", 1939, USSR)
+
+Review of ("The Soviet Diet Cookbook: Exploring life, culture and history - one recipe at a time" by Anna Kharzeeva, 2020)
+
+by := daliawolfson
+
+### Other book reviews
+
+=> https://www.theatlantic.com/magazine/archive/1860/07/darwin-on-the-origin-of-species/304152/
+
+Review of ("On the Origin of Species by Means of Natural Selection" by Charles Darwin)
+
+by := Asa Gray
+on := 1860-07-nn
+
+=> https://publicdomainreview.org/collection/agostino-ramelli-theatre-of-machines
+
+Review of ("Le diverse et artificiose machine [Diverse and artificial machines]" by Agostino Ramelli, 1588)
 
 ## Art, design and graphics
 
@@ -38,6 +81,10 @@ See also
 
 ### Data visualization examples
 
+=> https://everynoise.com/
+
+Every Noise at Once - "algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space"
+
 => https://www.shipmap.org/
 
 Visualisation of Global Cargo Ships | By Kiln and UCL
@@ -47,3 +94,19 @@ Visualisation of Global Cargo Ships | By Kiln and UCL
 => https://www.nytimes.com/interactive/2019/02/15/upshot/british-irish-dialect-quiz.html
 
 The British-Irish Dialect Quiz - By JOSH KATZ - FEB. 15, 2019
+
+=> https://www.wired.com/video/watch/accent-expert-gives-a-tour-of-north-american-accents-part-3
+
+Accent Expert Gives a Tour of North American Accents - Part 3 - "dialect coach Erik Singer takes us on a tour of different accents across English-speaking North America."
+
+## Math
+
+=> https://wiki.tcl-lang.org/page/Divisible+by+7
+
+"How can you quickly determine if a number is evenly divisible by 7?"
+
+by := Keith Vetter
+
+=> https://boris-marinov.github.io/category-theory-illustrated/04_order/
+
+Category Theory Illustrated - Orders
