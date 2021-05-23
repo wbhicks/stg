@@ -26,6 +26,12 @@ gh := t
 
 ## Bookmark project (nascent)
 
-=> bookmarks/
+With preceding slash:
+
+=> /bookmarks/non-periodicals.gmi
+
+No prefix:
+
+=> bookmarks/non-periodicals.gmi
 
 Having fun without CR/LF
