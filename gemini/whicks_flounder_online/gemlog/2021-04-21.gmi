@@ -5,3 +5,15 @@
 "Welcome to the YOLO Economy - Burned out and flush with savings, some workers are quitting stable jobs in search of postpandemic adventure."
 
 by := Kevin Roose
+
+=> https://www.npr.org/2021/04/21/989333092/the-secret-mission-to-unearth-part-of-a-142-year-old-experiment
+
+"The Secret Mission To Unearth Part Of A 142-Year-Old Experiment"
+
+by := Nell Greenfieldboyce
+
+=> https://www.newyorker.com/culture/comma-queen/grammar-nerd-heaven
+
+"Grammar-Nerd Heaven - A new exhibit showcases the surprisingly contentious history of English grammar books."
+
+by := Mary Norris

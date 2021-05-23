@@ -1,15 +1,7 @@
-# Example 2nd Gemini blog post
+# Published on this date
 
-## A two-hash section header
+=> https://www.cnet.com/news/nikola-tesla-invention-from-100-years-ago-suddenly-makes-more-sense-today/
 
-(xvii) This first body line introduces a paragraph of sample text from Wikipedia:
+"Nikola Tesla invention from 100 years ago suddenly makes more sense today - The eccentric inventor is known for dabbling with electricity, but his Tesla valve is impressing scientists anew."
 
-Extremely adept at living in human-altered areas, Canada geese have established breeding colonies in urban and cultivated habitats, which provide food and few natural predators. The success of this common park species has led to its often being considered a pest species because of its excrement, its depredation of crops, its noise, its aggressive territorial behavior toward both humans and other animals, and its habit of stalking and begging for food, a result of humans disobeying artificial feeding policies of wild animals.
-
-Credit for the preceding: Wikipedia
-
-gh := t
-
-## Sample gemtext link specifying http protocol
-
-=> http://example.org
+by := Eric Mack

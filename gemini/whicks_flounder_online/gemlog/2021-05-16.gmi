@@ -1,11 +1,7 @@
-# Example Gemini blog post
+# Published on this date
 
-(xvi) This first body line introduces a paragraph of sample text from Wikipedia:
+=> https://www.npr.org/sections/goatsandsoda/2021/05/16/995963311/prepone-that-your-accent-is-funny-readers-share-their-esl-stories
 
-The Canada goose (Branta canadensis) is a large wild goose with a black head and neck, white cheeks, white under its chin, and a brown body. It is native to the arctic and temperate regions of North America, and its migration occasionally reaches across the Atlantic to northern Europe. It has been introduced to the United Kingdom, Ireland, Finland, Sweden, Denmark, New Zealand, Japan, Chile, Argentina and the Falkland Islands. Like most geese, the Canada goose is primarily herbivorous and normally migratory; it tends to be found on or close to fresh water.
+"Prepone That! Your Accent Is Funny! Readers Share Their ESL Stories"
 
-Credit for the preceding: Wikipedia
-
-gh := t
-
-Last line, no CR/LF
+by := Carolyn McCusker

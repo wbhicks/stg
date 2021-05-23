@@ -1,0 +1,13 @@
+# Published on this date
+
+=> https://www.theguardian.com/culture/2021/apr/19/creativity-is-essential-artist-designed-supermarket-to-open-at-london-design-museum
+
+"‘Creativity is essential’: artist-designed supermarket to open in London - Product packaging created by artists for UK’s Design Museum aims to showcase importance of creativity"
+
+by := Mark Brown
+
+=> https://www.scientificamerican.com/article/quantum-astronomy-could-create-telescopes-hundreds-of-kilometers-wide/
+
+"Quantum Astronomy Could Create Telescopes Hundreds of Kilometers Wide - Astronomers hope to use innovations from the subatomic world to construct breathtakingly large arrays of optical observatories"
+
+by := Anil Ananthaswamy
