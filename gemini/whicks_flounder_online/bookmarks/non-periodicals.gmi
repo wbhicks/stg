@@ -1,4 +1,20 @@
-# Bookmarks to sites (or interactive features) that are not structured around publication dates
+# Bookmarks to book reviews, and to sites (or interactive features) that are not structured around publication dates
+
+## Paired book reviews
+
+=> https://www.nytimes.com/2021/04/21/books/review/louis-menand-the-free-world.html
+
+Review of ("THE FREE WORLD: Art and Thought in the Cold War" By Louis Menand)
+
+by := David Oshinsky
+on := 2021-04-21
+
+=> https://www.theatlantic.com/magazine/archive/2021/06/louis-menand-the-free-world-cold-war/618713/
+
+Review of ("THE FREE WORLD: Art and Thought in the Cold War" By Louis Menand)
+
+by := Mark Greif
+on := 2021-05-05
 
 ## Art, design and graphics
 
@@ -7,6 +23,12 @@
 => https://www.lab6.com/0
 
 Website composed of PDFs
+
+See also
+
+=> https://www.thesitewizard.com/webdesign/create-entire-website-in-pdf.shtml
+
+"Can I Create My Entire Website in PDF?"
 
 ### Application-independent color palettes
 

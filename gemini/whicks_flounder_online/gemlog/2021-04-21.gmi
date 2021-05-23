@@ -1,11 +1,5 @@
 # Published on this date
 
-=> https://www.nytimes.com/2021/04/21/books/review/louis-menand-the-free-world.html
-
-Review of ("THE FREE WORLD: Art and Thought in the Cold War" By Louis Menand)
-
-by := David Oshinsky
-
 => https://www.nytimes.com/2021/04/21/technology/welcome-to-the-yolo-economy.html
 
 "Welcome to the YOLO Economy - Burned out and flush with savings, some workers are quitting stable jobs in search of postpandemic adventure."
