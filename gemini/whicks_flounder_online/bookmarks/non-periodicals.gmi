@@ -2,6 +2,12 @@
 
 ## Art, design and graphics
 
+### Formats for publishing
+
+=> https://www.lab6.com/0
+
+Website composed of PDFs
+
 ### Application-independent color palettes
 
 => https://www.nordtheme.com/
