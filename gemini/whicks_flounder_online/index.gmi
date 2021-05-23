@@ -24,6 +24,8 @@ Just gemlog and a trailing slash:
 
 gh := t
 
-## Bye
+## Bookmark project (nascent)
+
+=> bookmarks/
 
 Having fun without CR/LF
