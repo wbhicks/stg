@@ -1,4 +1,4 @@
-# Bookmarks to sites not structured around publication dates
+# Bookmarks to sites (or interactive features) that are not structured around publication dates
 
 ## Art, design and graphics
 
@@ -19,3 +19,9 @@ Website composed of PDFs
 => https://www.shipmap.org/
 
 Visualisation of Global Cargo Ships | By Kiln and UCL
+
+## Learning English
+
+=> https://www.nytimes.com/interactive/2019/02/15/upshot/british-irish-dialect-quiz.html
+
+The British-Irish Dialect Quiz - By JOSH KATZ - FEB. 15, 2019

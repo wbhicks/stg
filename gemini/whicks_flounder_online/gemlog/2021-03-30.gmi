@@ -1,0 +1,13 @@
+# Published on this date
+
+=> https://www.nytimes.com/2021/03/30/science/blackwater-photography-fish-larvae.html
+
+"The Ocean’s Youngest Monsters Are Ready for Glamour Shots - Divers practicing blackwater photography are helping marine scientists gain new insights into fish larvae."
+
+by := Erik Olsen
+
+=> https://www.nytimes.com/2021/03/30/arts/music/mills-college-music.html
+
+"Is the Music Over at Mills College? A hotbed of experimental sound for nearly a century, this school in Oakland, Calif., is preparing to close its doors."
+
+by := Geeta Dayal
