@@ -34,16 +34,8 @@ No prefix:
 
 => bookmarks/non-periodicals.gmi
 
-http://linkwithoutgemtextindicator.org
+//urlwithoutgemtextindicator.org
 
 > Using a block quote in place of quotation marks
-
-http://linkwithoutgemtextindicator.org
-
-> Using a long looooong block quote in place of quotation marks. I just got home from work and i can do it tomorrow morning and then i'll can get a new car for the weekend and then i'll can get her stuff done and then i'll can get done and then i'll can get her stuff done and then i'll can done and then i'll can get her stuff done and then i'll can get her stuff don i'll can get her stuff done and then i'll can get her stuff done and then i'll can get her stuff done and then 
-
-http://linkwithoutgemtextindicator.org
-
-> #use #tags #within #block
 
 Having fun without CR/LF
