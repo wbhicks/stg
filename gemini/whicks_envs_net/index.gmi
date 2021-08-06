@@ -1,0 +1,14 @@
+# Welcome to my Gemini site on envs.net
+
+Everything here should be considered to be under construction and incomplete.
+
+Here's a link to a subdir holding a few sample log entries, each of which is essentially a bookmark to 3rd-party web content (typically, news articles I came across). The dates in their filenames show when the referenced article was published:
+
+=> gemlog/
+
+Here's the only file under a "bookmarks" subdir, holding a few sample bookmarks to 3rd-party web pages of interest to me:
+
+=> bookmarks/non-periodicals.gmi
+
+No gemini bookmarks here yet, but coming soon :-)
+
