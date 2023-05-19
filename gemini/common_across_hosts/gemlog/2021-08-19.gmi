@@ -1,0 +1,17 @@
+# Published on this date
+
+=> https://www.bbc.com/news/world-africa-58260855
+
+"Algeria: The forest fires that led to an artist's lynching - The BBC's Kayleen Devlin tells a harrowing story of how the life of a young artist who came to help fight deadly forest fires in Algeria was ended by a mob."
+
+by := BBC
+
+=> https://slate.com/business/2021/08/congestion-pricing-nyc-bart-tunnel-san-francisco-bay-environmental-reviews.html
+
+"The Perverse Reason It’s Easier to Build New Highways Than New Subways - The environment?!"
+
+"Congestion pricing in NYC, subway tunnels in San Francisco are being held up by environmental reviews, a perverse policy that rarely delays roads."
+
+by := HENRY GRABAR
+
+# Commemorated on this date
