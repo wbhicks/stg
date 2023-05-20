@@ -1,7 +1,0 @@
-# Published on this date
-
-=> https://www.nytimes.com/2021/04/17/business/california-homeless-hotels.html
-
-"One Way to Get People Off the Streets: Buy Hotels - For homeless people, a place to live is life changing to a degree that almost no other intervention can provide."
-
-by := Conor Dougherty

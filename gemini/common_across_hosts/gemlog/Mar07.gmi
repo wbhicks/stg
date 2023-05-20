@@ -1,0 +1,11 @@
+# Published on this date in 2023
+
+=> https://www.nytimes.com/2023/03/07/magazine/los-angeles-walking-rosecrans-avenue.html
+
+"Los Angeles Is a Fantastic Walking City. No, Really. - A stroll down Rosecrans Avenue is not a pleasure. But it does offer a 27-mile canvas of the city’s vastness and its diverse communities coexisting."
+
+"Probably most of Greater L.A. is awful to experience on foot. Yet there’s so much of it, radiating from multiple cores, that the amount worth walking is colossal."
+
+by := Rosecrans Baldwin
+
+# Commemorated on this date

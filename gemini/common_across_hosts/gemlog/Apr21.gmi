@@ -1,4 +1,4 @@
-# Published on this date
+# Published on this date in 2021
 
 => https://www.nytimes.com/2021/04/21/technology/welcome-to-the-yolo-economy.html
 
@@ -17,3 +17,15 @@ by := Nell Greenfieldboyce
 "Grammar-Nerd Heaven - A new exhibit showcases the surprisingly contentious history of English grammar books."
 
 by := Mary Norris
+
+# Published on this date in 2023
+
+=> https://www.latimes.com/california/story/2023-04-21/spolin-lawyer-sentence-shortening-hopes
+
+"A California lawyer cashed in on criminal justice reform by fanning the hopes of inmates’ families"
+
+"Karen Marquez holds a framed photograph of her husband, Johnathan, who is serving a life sentence for murder. She and her mother-in-law paid $12,700 in fees to Aaron Spolin’s law firm — money they now believe was wasted."
+
+by := HARRIET RYAN
+
+# Commemorated on this date

@@ -1,7 +1,0 @@
-# Published on this date
-
-=> https://www.cnet.com/news/nikola-tesla-invention-from-100-years-ago-suddenly-makes-more-sense-today/
-
-"Nikola Tesla invention from 100 years ago suddenly makes more sense today - The eccentric inventor is known for dabbling with electricity, but his Tesla valve is impressing scientists anew."
-
-by := Eric Mack

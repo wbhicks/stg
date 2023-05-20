@@ -1,0 +1,11 @@
+# Published on this date
+
+=> https://acleddata.com/2021/08/23/armed-assembly-guns-demonstrations-and-political-violence-in-america
+
+"Armed Assembly: Guns, Demonstrations, and Political Violence in America - This joint report by ACLED and the Everytown for Gun Safety Support Fund analyzes new data on hundreds of armed demonstrations across the United States."
+
+"This collaboration between the Armed Conflict Location & Event Data Project (ACLED) and Everytown for Gun Safety Support Fund (Everytown) presents quantitative research on demonstrations in the United States during the 18-month period from January 2020 through June 2021, documenting 560 events where demonstrators, counter-demonstrators, or other individuals or groups were present and carried or brandished firearms (see inset definition)."
+
+by := ACLED and the Everytown for Gun Safety Support Fund
+
+# Commemorated on this date
