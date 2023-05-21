@@ -1,4 +1,4 @@
-# Bookmarks to book ex4ts/reviews, and to sites (or interactive features) that are not structured around publication dates
+# Bookmarks to book/video ex4ts/reviews, and to sites (or interactive features) that are not structured around publication dates
 
 ## Book ex4ts
 
@@ -63,17 +63,116 @@ on := 1860-07-nn
 
 Review of ("Le diverse et artificiose machine [Diverse and artificial machines]" by Agostino Ramelli, 1588)
 
+=> https://lareviewofbooks.org/article/descartess-evil-genius/
+
+Review of ("Cartesian Poetics: The Art of Thinking" by Andrea Gadberry, 2021)
+
+by := Ross Wilson
+on := 2021-08-09
+
+=> https://publicdomainreview.org/essay/the-spiralist
+
+Review of ("Design in Nature" by James Bell Pettigrew, 1908)
+
+by := Kevin Dann
+on := 2021-08-05
+
+## Reviews of films and other video
+
+=> https://scrapsfromtheloft.com/2018/01/18/the-french-connection-urban-gothic-pauline-kael/
+
+Review of the film "The French Connection"
+
+Kael, by citing the then-recent movies ...
+
+* Bananas
+* Born to Win
+* Cotton Comes to Harlem
+* Cry Uncle
+* Diary of a Mad Housewife
+* Greetings
+* Harry Kellerman
+* Klute
+* Little Murders
+* Midnight Cowboy
+* No Way to Treat a Lady
+* Shaft
+* The Anderson Tapes
+* The Landlord
+* The Owl and the Pussycat
+* The Panic in Needle Park
+* The Steagle
+* Where’s Poppa?
+
+... argues that "... The city of New York has ... given movies a new spirit of nervous, anxious hopelessness, which is the true spirit of New York."
+
+"This right-wing, left-wing, take-your-choice cynicism is total commercial opportunism passing itself off as an Existential view. ... to make the cops-and-robbers melodrama superficially modern by making it meaningless ..."
+
+review title := "The French Connection: Urban Gothic"
+
+review by := Pauline Kael
+
+review date := 1971-10-30
+
+=> https://www.theatlantic.com/culture/archive/2020/05/30-singular-films-watch-quarantine/611956/
+
+"30 Singular Films to Watch in Quarantine - The Atlantic"
+
+=> https://boingboing.net/2023/04/25/1975-film-captures-the-heartbreaking-transition-from-countercultural-free-spirits-to-corporate-office-drones.html
+
+Review of the industrial film ("Word Processing: The Pivot Point", 1975)
+
+review title := "1975 film captures the heartbreaking transition from countercultural free spirits to corporate office drones"
+
+review by := MARK FRAUENFELDER
+
+review date := 2023-04-25
+
+### Some mid-to-late-20th century US film critics
+
+=> https://en.wikipedia.org/wiki/Bosley_Crowther
+
+=> https://en.wikipedia.org/wiki/James_Agee
+
+=> https://en.wikipedia.org/wiki/Pauline_Kael
+
+=> https://en.wikipedia.org/wiki/Roger_Ebert
+
+=> https://en.wikipedia.org/wiki/Stanley_Kauffmann
+
+=> https://en.wikipedia.org/wiki/Vincent_Canby
+
+## Articles in periodicals without specific dates
+
+=> https://lux-magazine.com/article/mutual-aid-cars-alabama/
+
+"Where The Sidewalk Ends - Meet the Rednecks Running a Mutual Aid Auto Repair Shop in Alabama"
+
+"... the Automotive Free Clinic is a pay-what-you-can auto repair shop in Prattville, just outside Montgomery."
+
+"... mentioned that Hank Williams’ grave was just up the road ..."
+
+by := Robin Kaiser-Schatzlein
+
+issue := "Issue 6, Winter 2022"
+
+=> https://www.theguardian.com/notesandqueries/query/0,5753,-1773,00.html
+
+"Does the symbol @ have a name? If not, any suggestions? | Notes and Queries | guardian.co.uk"
+
 ## Wikipedia topics
 
 American_Indian_Religious_Freedom_Act Carnivalesque Dudeism Enoch_Soames
 
 Homophonic_translation // cf. "wreck a nice beach"
 
+Sweet_Smell_of_Success // 1957 US film noir #film #nyc #journalism
+
 Truffle_oil // avoid
 
 ## Art, design and graphics
 
-### Formats for publishing
+### Formats for publishing, and document formats
 
 => https://www.lab6.com/0
 
@@ -84,6 +183,12 @@ See also
 => https://www.thesitewizard.com/webdesign/create-entire-website-in-pdf.shtml
 
 "Can I Create My Entire Website in PDF?"
+
+=> https://karl-voit.at/2017/09/23/orgmode-as-markup-only/
+
+"Org Mode Syntax Is One of the Most Reasonable Markup Languages to Use for Text"
+
+by := Karl Voit
 
 ### Application-independent color palettes
 
@@ -100,6 +205,22 @@ Every Noise at Once - "algorithmically-generated, readability-adjusted scatter-p
 => https://www.shipmap.org/
 
 Visualisation of Global Cargo Ships | By Kiln and UCL
+
+### Fonts under Open Font License
+
+=> https://fonts.google.com/specimen/Quicksand
+
+### Images
+
+=> https://www.loc.gov/item/81694155/
+
+"Bird's-eye-view of Manhattan and adjacent districts, New York City", circa 1900
+
+=> https://www.npr.org/2022/08/22/1118713393/astrophotographers-moon-reddit-image
+
+"How 2 astrophotographers teamed up to capture a stellar image of the moon"
+
+"... capturing over 200,000 shots to create a single image ... Andrew McCarthy and Connor Matherne collaborated ..."
 
 ## Learning English
 
@@ -122,3 +243,15 @@ by := Keith Vetter
 => https://boris-marinov.github.io/category-theory-illustrated/04_order/
 
 Category Theory Illustrated - Orders
+
+## Philosophy
+
+=> https://www.neh.gov/article/buddha-and-mind
+
+"Buddha and Mind - How a religious practice came to fascinate neuroscientists and gave birth to the mindfulness movement"
+
+by := James Flynn
+
+## Poems
+
+=> https://www.rattle.com/the-wreck-of-the-edmund-fitzgerald-by-david-kirby/
