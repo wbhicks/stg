@@ -162,7 +162,7 @@ issue := "Issue 6, Winter 2022"
 
 ## Wikipedia topics
 
-American_Indian_Religious_Freedom_Act Carnivalesque Dudeism Enoch_Soames
+American_Indian_Religious_Freedom_Act Carnivalesque Chain_rule_(probability) Dudeism Enoch_Soames
 
 Homophonic_translation // cf. "wreck a nice beach"
 
