@@ -1,0 +1,24 @@
+# Published on this date in ...
+
+# Commemorated on this date
+
+On this date in 2023, Sierra Leone's symbolic Cotton Tree was felled by a storm:
+
+=> https://www.bbc.com/news/world-africa-65707394
+
+"Sierra Leone's iconic cotton tree felled by storm"
+
+by := Umaru Fofana in Freetown & Robert Greenall in London
+date := 2023-05-25
+
+=> https://www.theguardian.com/world/2023/may/25/sierra-leone-symbolic-cotton-tree-falls-during-storm-in-freetown
+
+"Sierra Leone’s symbolic Cotton Tree falls during storm in Freetown -- Centuries-old Ceiba pentandra marked where formerly enslaved people had prayed upon arrival in west Africa"
+
+by := Agence France-Presse in Freetown
+date := 2023-05-25
+
+=> https://en.wikipedia.org/wiki/Cotton_Tree_(Sierra_Leone)
+
+"On 24 May 2023, a heavy rain storm felled the cotton tree with only the lower part of its enormous trunk still standing."
+

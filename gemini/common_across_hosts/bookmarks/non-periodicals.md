@@ -448,8 +448,25 @@ Thing_Explainer // "Thing Explainer: Complicated Stuff in Simple Words is a 2015
 
 Uncleftish_Beholding // "Written [Poul Anderson, 1989] as a demonstration of linguistic purism in English, the work explains atomic theory using Germanic words almost exclusively and coining new words when necessary; many of these new words have cognates in modern German ..."
 
+#### Datekeeping
 
+Byzantine_calendar // "The calendar was based on the Julian calendar, except that the year started on 1 September and the year number used an Anno Mundi epoch ..."
 
+Coptic_calendar // "also called the Alexandrian calendar, is a liturgical calendar used by the Coptic Orthodox Church and also used by the farming populace in Egypt. It was used for fiscal purposes in Egypt until [1875] ... This calendar is based on the ancient Egyptian calendar. ... To distinguish it from the Ancient Egyptian calendar, which remained in use by some astronomers until medieval times, this reformed calendar is known as the Coptic or Alexandrian calendar. Its years and months coincide with those of the Ethiopian calendar but have different numbers and names."
+
+Era_of_the_Martyrs // "a method of numbering years based on the reign of Roman Emperor Diocletian who instigated the last major persecution against Christians in the Empire. ... not the only one used by early Christians. Western Christians were aware of it but did not use it."
+
+Julian_day // "The Julian day is the continuous count of days since the beginning of the Julian period"
+
+List_of_non-standard_dates // "Although the leap day was omitted in February 1700, the Great Northern War began later that year, diverting the attention of the Swedes from their calendar so that they did not omit leap days on the next two occasions; 1704 and 1708 remained leap years."
+
+Tibb%27s_Eve // "... if something was said to happen on Tibb's Eve, it was unlikely it would ever happen."
+
+#### White elephant
+
+// presumably unrelated to the English term:
+
+Bia%C5%82y_S%C5%82o%C5%84 // "located at remote area on the peak of Pip Ivan in the Chornohora range of the Carpathian Mountains, Ukraine. Currently the structure is used as a mountain shelter ..." 
 
 
 ## Art, design and graphics
