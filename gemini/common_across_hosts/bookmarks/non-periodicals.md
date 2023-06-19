@@ -164,9 +164,9 @@ issue := "Issue 6, Winter 2022"
 
 ### Without notes, alphabetical order
 
-1913_Gettysburg_reunion ~ ~ 5-over-1 ~ ~ Abie's_Irish_Rose ~ ~ Aiken,_South_Carolina ~ ~ American_Guide_Series ~ ~ American_Indian_Religious_Freedom_Act ~ ~ American_Nations ~ ~ Amy's_Kitchen ~ ~ Antiquary ~ ~ Ap%C3%A9ritif_and_digestif ~ ~ Bank_Street_College_of_Education ~ ~ Barbados_4%E2%80%932_Grenada ~ ~ Base32 ~ ~ Bath_County_Pumped_Storage_Station ~ ~ Battle_of_H%C3%BCrtgen_Forest ~ ~ Benefit_society ~ ~ Better_Business_Bureau ~ ~ Black_Christian_Siriano_gown_of_Billy_Porter ~ ~ Black_Country ~ ~ Boltzmann_brain ~ ~ Bring_Us_Together ~ ~ Carnivalesque ~ ~ Ch%C3%A2teau_Frontenac ~ ~ Chain_rule_(probability) ~ ~ Chaos_engineering ~ ~ Coastline_paradox ~ ~ Common_scold ~ ~ Commonplace_book ~ ~ Consumer_Review_Fairness_Act ~ ~ Copacabana_(nightclub) ~ ~ Cosmopolitan_Railway ~ ~ Council_House_Fight ~ ~ Criterion_Restaurant ~ ~ D.O.A._(1950_film) ~ ~ Dino_De_Laurentiis ~ ~ Discordianism ~ ~ Dudeism ~ ~ Emic_and_etic ~ ~ Enoch_Soames ~ ~ Environments_(album_series) ~ ~ Flag_of_Trenton,_Georgia ~ ~ Flanders_and_Swann ~ ~ Frankenstein_veto ~ ~ Free_will_theorem ~ ~ Front_running ~ ~ Garden_hermit ~ ~ Gauss's_Pythagorean_right_triangle_proposal ~ ~ Great_Blizzard_of_1899 ~ ~ Greco-Buddhism ~ ~ Guild_House_(Philadelphia) ~ ~ Heavy_Press_Program ~ ~ Heiligen-Geist-Kapelle,_Bruck ~ ~ Hex_(board_game) ~ ~ Holland_Park_School ~ ~ Icknield_Way ~ ~ Imminent_lawless_action ~ ~ Impossible_color ~ ~ In_C ~ ~ Initial-stress-derived_noun ~ ~ John_Scott_(ice_hockey) ~ ~ Julius_(restaurant) ~ ~ Kaktovik_numerals ~ ~ Kanawha_County_textbook_controversy ~ ~ Kettle_logic ~ ~ Knightian_uncertainty ~ ~ Laser_guide_star ~ ~ Launch_loop ~ ~ Liber ~ ~ Lisbon_massacre ~ ~ List_of_directly_imaged_exoplanets ~ ~ List_of_games_that_Buddha_would_not_play ~ ~ List_of_lists_of_lists ~ ~ Loki's_Wager ~ ~ London_Wall ~ ~ Marlborough-Blenheim_Hotel ~ ~ McNamara_fallacy ~ ~ Mind_Your_Language ~ ~ Mondegreen ~ ~ Next_Stop,_Greenwich_Village ~ ~ Nominalism ~ ~ Obscurantism ~ ~ Oriental_Orthodox_Churches ~ ~ Person_from_Porlock ~ ~ Philip_Spencer_(sailor) ~ ~ Phyllis_and_Aristotle ~ ~ Pitch_Lake ~ ~ Prester_John ~ ~ Professor_Unrat ~ ~ R759_road_(Ireland) ~ ~ Randall_and_Hopkirk_(Deceased) ~ ~ Raven_paradox ~ ~ Ristretto ~ ~ Rural_purge ~ ~ Scottish_Café ~ ~ Self-licking_ice_cream_cone ~ ~ Semitic_neopaganism ~ ~ Senate_bean_soup ~ ~ Shirley_Plantation ~ ~ Sousveillance ~ ~ Southern_Unionist ~ ~ Sprite_(lightning) ~ ~ Straight_Street ~ ~ Survivorship_bias ~ ~ Tetrarchy ~ ~ The_Ambassadors_(Holbein) ~ ~ The_Devil_and_Daniel_Webster ~ ~ The_Fairy_Feller's_Master-Stroke ~ ~ The_Groove_Tube ~ ~ The_Hospital ~ ~ The_Marseille_Contract ~ ~ The_Season:_A_Candid_Look_at_Broadway ~ ~ Thorstein_Veblen ~ ~ Time_and_Again_(Finney_novel) ~ ~ Tolpuddle_Martyrs ~ ~ Ukrainians_in_Paraguay ~ ~ Uncleftish_Beholding ~ ~ Victory_Highway ~ ~ Xavier_Cugat ~ ~ Xiaozhai_Tiankeng
+1913_Gettysburg_reunion ~ ~ 5-over-1 ~ ~ Abie's_Irish_Rose ~ ~ Aiken,_South_Carolina ~ ~ American_Guide_Series ~ ~ American_Indian_Religious_Freedom_Act ~ ~ American_Nations ~ ~ Amy's_Kitchen ~ ~ Antiquary ~ ~ Ap%C3%A9ritif_and_digestif ~ ~ Bank_Street_College_of_Education ~ ~ Barbados_4%E2%80%932_Grenada ~ ~ Base32 ~ ~ Bath_County_Pumped_Storage_Station ~ ~ Battle_of_H%C3%BCrtgen_Forest ~ ~ Benefit_society ~ ~ Better_Business_Bureau ~ ~ Black_Christian_Siriano_gown_of_Billy_Porter ~ ~ Black_Country ~ ~ Boltzmann_brain ~ ~ Bring_Us_Together ~ ~ Carnivalesque ~ ~ Ch%C3%A2teau_Frontenac ~ ~ Chain_rule_(probability) ~ ~ Chaos_engineering ~ ~ Coastline_paradox ~ ~ Common_scold ~ ~ Commonplace_book ~ ~ Consumer_Review_Fairness_Act ~ ~ Copacabana_(nightclub) ~ ~ Cosmopolitan_Railway ~ ~ Council_House_Fight ~ ~ Criterion_Restaurant ~ ~ D.O.A._(1950_film) ~ ~ Dino_De_Laurentiis ~ ~ Discordianism ~ ~ Dudeism ~ ~ Emic_and_etic ~ ~ Enoch_Soames ~ ~ Environments_(album_series) ~ ~ Flag_of_Trenton,_Georgia ~ ~ Flanders_and_Swann ~ ~ Frankenstein_veto ~ ~ Free_will_theorem ~ ~ Front_running ~ ~ Garden_hermit ~ ~ Gauss's_Pythagorean_right_triangle_proposal ~ ~ Great_Blizzard_of_1899 ~ ~ Greco-Buddhism ~ ~ Guild_House_(Philadelphia) ~ ~ Heavy_Press_Program ~ ~ Heiligen-Geist-Kapelle,_Bruck ~ ~ Hex_(board_game) ~ ~ Holland_Park_School ~ ~ Icknield_Way ~ ~ Imminent_lawless_action ~ ~ Impossible_color ~ ~ In_C ~ ~ John_Scott_(ice_hockey) ~ ~ Julius_(restaurant) ~ ~ Kaktovik_numerals ~ ~ Kanawha_County_textbook_controversy ~ ~ Kettle_logic ~ ~ Knightian_uncertainty ~ ~ Laser_guide_star ~ ~ Launch_loop ~ ~ Liber ~ ~ Lisbon_massacre ~ ~ List_of_directly_imaged_exoplanets ~ ~ List_of_games_that_Buddha_would_not_play ~ ~ List_of_lists_of_lists ~ ~ Loki's_Wager ~ ~ London_Wall ~ ~ Marlborough-Blenheim_Hotel ~ ~ McNamara_fallacy ~ ~ Mind_Your_Language ~ ~ Next_Stop,_Greenwich_Village ~ ~ Nominalism ~ ~ Obscurantism ~ ~ Oriental_Orthodox_Churches ~ ~ Person_from_Porlock ~ ~ Philip_Spencer_(sailor) ~ ~ Phyllis_and_Aristotle ~ ~ Pitch_Lake ~ ~ Prester_John ~ ~ Professor_Unrat ~ ~ R759_road_(Ireland) ~ ~ Randall_and_Hopkirk_(Deceased) ~ ~ Raven_paradox ~ ~ Ristretto ~ ~ Rural_purge ~ ~ Scottish_Café ~ ~ Self-licking_ice_cream_cone ~ ~ Semitic_neopaganism ~ ~ Senate_bean_soup ~ ~ Shirley_Plantation ~ ~ Sousveillance ~ ~ Southern_Unionist ~ ~ Sprite_(lightning) ~ ~ Straight_Street ~ ~ Survivorship_bias ~ ~ Tetrarchy ~ ~ The_Ambassadors_(Holbein) ~ ~ The_Devil_and_Daniel_Webster ~ ~ The_Fairy_Feller's_Master-Stroke ~ ~ The_Groove_Tube ~ ~ The_Hospital ~ ~ The_Marseille_Contract ~ ~ The_Season:_A_Candid_Look_at_Broadway ~ ~ Thorstein_Veblen ~ ~ Time_and_Again_(Finney_novel) ~ ~ Tolpuddle_Martyrs ~ ~ Ukrainians_in_Paraguay ~ ~ Victory_Highway ~ ~ Xavier_Cugat ~ ~ Xiaozhai_Tiankeng
 
-### With quotations from the WP article, or notes or tags
+### Singletons with quotations from the WP article, or notes or tags
 
 Adalbert_Stifter // 'The excessive detail for which Hebbel derided the novel [Der Nachsommer, 1857], is, according to Christine Oertel Sjögren, "precisely a source of fascination for modern scholars, who seize upon the number of objects as the distinguishing characteristic of this novel and accord it high esteem because of the very significance of the 'things' in it."'
 
@@ -235,8 +235,6 @@ Hart's_Rules // "Hart's Rules has been revised and republished under different t
 Heinrich_Lossow // "(10 March 1843 in Munich, Kingdom of Bavaria – 19 May 1897 in Schleissheim, Austria-Hungary) was a German genre painter and illustrator."
 
 Herne_the_Hunter // "In English folklore, Herne the Hunter is a ghost associated with Windsor Forest and Great Park in the English county of Berkshire. He is said to have antlers growing from his head, ride a horse, torment cattle, and rattle chains. The earliest mention of Herne comes from William Shakespeare's 1597 play The Merry Wives of Windsor, and it is impossible to know how accurately or to what degree Shakespeare may have incorporated a real local legend into his work, though there have been several later attempts to connect Herne to historical figures, pagan deities, or ancient archetypes."
-
-Homophonic_translation // cf. "wreck a nice beach"
 
 Hong_Xiuquan // "In 1847, Hong Xiuquan was invited by a member of the Chinese Union to study with the American Southern Baptist missionary, Reverend Issachar Jacox Roberts. ... [Hong] presented his followers with the Bible as a vision of the authentic religion that had existed in ancient China before it was wiped out by Confucius and the imperial system. ... Hong ruled by making frequent proclamations from his Heavenly Palace ..."
 
@@ -373,6 +371,86 @@ William_de_la_Pole_(Chief_Baron_of_the_Exchequer) // "(died 21 June 1366) was a 
 William_Morris // "(24 March 1834 – 3 October 1896) was a British textile designer, poet, artist, fantasy writer, architectural conservationist, printer, translator and socialist activist associated with the British Arts and Crafts Movement. He was a major contributor to the revival of traditional British textile arts and methods of production. His literary contributions helped to establish the modern fantasy genre, while he helped win acceptance of socialism in fin de siècle Great Britain."
 
 Wolfgang_Werl%C3%A9_and_Manfred_Lauber // "In 2009, Werlé and Lauber again received international media coverage when Werlé attempted to remove his name from foreign media sources, including the English language Wikipedia, citing German privacy laws."
+
+### Clusters with quotations from the WP article, or notes or tags
+
+#### Mottos of the Edinburgh Review (1802)
+
+Sydney_Smith // "... [I] remained long enough in Edinburgh to edit the first number (October 1802) of the Edinburgh Review. The motto I proposed for the Review was Tenui musam meditamur avena. -- 'We cultivate literature on a little oatmeal.' But this was too near the truth to be admitted, and so we took our present grave motto [Judex damnatur ubi nocens absolvitur (the judge is condemned when the guilty is acquitted) -- Publilius Syrus, Sententiae] from Publius Syrus, of whom, none of us, I am sure, had ever read a single line."
+
+Publilius_Syrus // "Publilius' name, due to the palatalization of 'l' between two 'i's in the Early Middle Ages, is often presented by manuscripts (and some printed editions) in corrupt form as 'Publius'"
+
+#### Five years apart in Franco-British relations (1940 and 1945)
+
+Levant_Crisis // "The Levant Crisis, also known as the Damascus Crisis, the Syrian Crisis, or the Levant Confrontation, was a military confrontation that took place between British and French forces in Syria in May 1945 soon after the end of World War II in Europe. French troops had tried to quell nationalist protests in Syria at the continued occupation of the Levant by France. With heavy Syrian casualties, British Prime Minister Winston Churchill opposed French action and sent British forces into Syria from Transjordan with orders to fire on the French if necessary. ... British armoured cars and troops then reached the Syrian capital of Damascus, following which the French were escorted and confined to their barracks."
+
+// ... which came just five years after ...
+
+Franco-British_Union // "[De Gaulle] called Reynaud and told him that the British prime minister proposed a union between their countries, an idea which Reynaud immediately supported. ... The final "Declaration of Union" approved by the British War Cabinet ..."
+
+#### Two novels touching on automation (1872 and 1952)
+
+Erewhon // "The [1872] novel is one of the first to explore ideas of artificial intelligence, as influenced by Darwin's recently published On the Origin of Species (1859) and the machines developed out of the Industrial Revolution (late 18th to early 19th centuries). Specifically, it concerns itself, in the three-chapter "Book of the Machines", with the potentially dangerous ideas of machine consciousness and self-replicating machines."
+
+Player_Piano_(novel) // "Player Piano is the first novel by American writer Kurt Vonnegut Jr., published in 1952. The novel depicts a dystopia of automation ..."
+
+#### Siccar Point, Scotland
+
+Deep_time // "The philosophical concept of geological time was developed in the 18th century by Scottish geologist James Hutton (1726–1797); his "system of the habitable Earth" was a deistic mechanism keeping the world eternally suitable for humans."      
+
+Hutton's_Unconformity // "For Hutton, such an unconformity provided evidence for his Plutonist theories of uniformitarianism and the age of Earth. An unconformity is any break in the normal progression of sedimentary deposits, which are laid the newer on top of the older."
+
+Siccar_Point // "a rocky promontory in the county of Berwickshire on the east coast of Scotland. It is famous in the history of geology for Hutton's Unconformity found in 1788 ... this locality was included by the International Union of Geological Sciences (IUGS) as the first of 100 'geological heritage sites' around the world in a listing published in October 2022."
+
+#### Parrondo's paradox, and some good advice
+
+Parrondo%27s_paradox // "Parrondo devised the paradox in connection with his analysis of the Brownian ratchet, a thought experiment about a machine that can purportedly extract energy from random heat motions popularized by physicist Richard Feynman. However, the paradox disappears when rigorously analyzed."
+
+// This Wikipedia article also quotes Derek Abbott (excerpted here): "... 'I have had one mathematician complain that the games always were obvious to him and hence we should not use the word "paradox." He is either a genius or never really understood it in the first place. In either case, it is not worth arguing with people like that.'"
+
+#### Leaning US skyscrapers
+
+161_Maiden_Lane // "The building leans 3 inches (76 mm) to the north as a result of the method used to construct its foundation."
+
+// cf. the better-known, because already occupied, Millennium_Tower_(San_Francisco)
+
+#### Agloe NY
+
+Trap_street // 'Trap streets are not copyrightable under the federal law of the United States. In Nester's Map & Guide Corp. v. Hagstrom Map Co. (1992), a United States federal court found that copyright traps are not themselves protectable by copyright. There, the court stated: "[t]o treat 'false' facts interspersed among actual facts and represented as actual facts as fiction would mean that no one could ever reproduce or copy actual facts without risk of reproducing a false fact and thereby violating a copyright ... If such were the law, information could never be reproduced or widely disseminated."'
+
+Agloe,_New_York // "In the 1950s, a general store was built at the intersection on the map, and was given the name Agloe General Store because the name was on the Esso maps. ... Eventually, the store went out of business ..."
+
+#### Learning or reforming English
+
+Basic_English // "an English-based controlled language created by the linguist and philosopher Charles Kay Ogden as an international auxiliary language, and as an aid for teaching English as a second language. Basic English is, in essence, a simplified subset of regular English."
+
+English-language_spelling_reform // "From the 16th century AD onward, English writers who were scholars of Greek and Latin literature tried to link English words to their Graeco-Latin counterparts. They did this by adding silent letters to make the real or imagined links more obvious. Thus det became debt (to link it to Latin debitum), dout became doubt (to link it to Latin dubitare), sissors became scissors and sithe became scythe (as they were wrongly thought to come from Latin scindere), iland became island (as it was wrongly thought to come from Latin insula) ..."
+
+E-Prime // "denotes a restricted form of English in which authors avoid all forms of the verb to be. ... The advocates of E-Prime have not proven that it is easier to exclude the verb to be than to eliminate only the is-of-identity and the is-of-predication."
+
+George_Bernard_Shaw // "He favoured archaic spellings such as "shew" for "show"; he dropped the "u" in words like "honour" and "favour"; and wherever possible he rejected the apostrophe in contractions such as "won't" or "that's". In his will, Shaw ordered that, after some specified legacies, his remaining assets were to form a trust to pay for fundamental reform of the English alphabet into a phonetic version of forty letters."
+
+Homograph // 'a word that shares the same written form as another word but has a different meaning. However, some dictionaries insist that the words must also be pronounced differently, while the Oxford English Dictionary says that the words should also be of "different origin". ... Venn diagram showing the relationships between homographs and related linguistic concepts'
+
+Homonym // "words which are either homographs -- words that have the same spelling (regardless of pronunciation) -- or homophones -- words that have the same pronunciation (regardless of spelling) --, or both. ... A more restrictive and technical definition requires that homonyms be simultaneously homographs and homophones -- that is to say they have identical spelling and pronunciation, but with different meanings. ... Euler diagram showing the relationships between homonyms and related linguistic concepts."
+
+Homophonic_translation // cf. "wreck a nice beach"
+
+Initial-stress-derived_noun // "a phonological process in English that moves stress to the first syllable of verbs when they are used as nouns or adjectives."
+
+Learning_English_(version_of_English) // "a controlled version of the English language first used on 19 October 1959, and still presented daily by the United States broadcasting service Voice of America (VOA). World news and other programs are read one-third slower than regular VOA English. Reporters avoid idioms and use a core vocabulary of about 1500 words ..."
+
+Mondegreen // "a mishearing or misinterpretation of a phrase in a way that gives it a new meaning. Mondegreens are most often created by a person listening to a poem or a song; the listener, being unable to hear a lyric clearly, substitutes words that sound similar and make some kind of sense."
+
+Simplified_Technical_English // "ASD-STE100 Simplified Technical English (STE) is an international specification for the preparation of technical documentation in a controlled language. STE as a controlled language was developed in the early 1980s (as AECMA Simplified English) to help second-language speakers of English to unambiguously understand technical manuals written in English."
+
+Thing_Explainer // "Thing Explainer: Complicated Stuff in Simple Words is a 2015 illustrated non-fiction book created by Randall Munroe, in which the author attempts to explain various complex subjects using only the 1,000 most common English words."
+
+Uncleftish_Beholding // "Written [Poul Anderson, 1989] as a demonstration of linguistic purism in English, the work explains atomic theory using Germanic words almost exclusively and coining new words when necessary; many of these new words have cognates in modern German ..."
+
+
+
+
 
 ## Art, design and graphics
 
