@@ -1,4 +1,4 @@
-# Published on this date
+# Published on this date in 2021
 
 => https://www.nytimes.com/2021/04/06/books/review/the-age-of-decadence-simon-heffer.html
 
@@ -11,3 +11,5 @@ by := Richard Aldous
 "Why Stanford Should Clone Itself - If elite colleges are serious about diversity of class and race, there’s a simple solution."
 
 by := David L. Kirp
+
+# Commemorated on this date

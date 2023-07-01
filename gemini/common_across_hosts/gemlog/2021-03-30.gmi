@@ -1,4 +1,4 @@
-# Published on this date
+# Published on this date in 2021
 
 => https://www.nytimes.com/2021/03/30/science/blackwater-photography-fish-larvae.html
 
@@ -11,3 +11,5 @@ by := Erik Olsen
 "Is the Music Over at Mills College? A hotbed of experimental sound for nearly a century, this school in Oakland, Calif., is preparing to close its doors."
 
 by := Geeta Dayal
+
+# Commemorated on this date

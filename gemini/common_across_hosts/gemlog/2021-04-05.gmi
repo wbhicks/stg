@@ -1,7 +1,8 @@
-# Published on this date
+# Published on this date in 2021
 
 => https://www.nytimes.com/2021/04/05/arts/design/warhol-copyright-appeals-court.html
 
 "Warhol a Lame Copier? The Judges Who Said So Are Sadly Mistaken. An appeals court ruled that Andy Warhol violated a photographer’s copyright by appropriating her image for a silk-screen he did in 1984. Our critic disagrees."
 
 by := Blake Gopnik
+# Commemorated on this date

@@ -1,4 +1,4 @@
-# Published on this date
+# Published on this date in 2021
 
 => https://www.nytimes.com/2021/05/04/realestate/design-downsizing.html
 
@@ -11,3 +11,5 @@ by := Pilar Viladas
 "In Miami, a Sculpture Built to Live In - Christopher Carter, an artist who works with salvaged materials, set out to create his biggest work ever. Now it’s his home, and the subject of a new exhibit."
 
 by := Tim McKeough
+
+# Commemorated on this date

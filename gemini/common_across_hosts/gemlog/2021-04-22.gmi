@@ -1,4 +1,4 @@
-# Published on this date
+# Published on this date in 2021
 
 => https://www.nytimes.com/2021/04/22/world/australia/peter-warner-dead.html
 
@@ -11,3 +11,5 @@ by := Clay Risen
 "When Paid Applauders Ruled the Paris Opera House - Professional applauders, collectively known as the “claque,” helped mold the tastes of an uncertain audience."
 
 by := Amelia Soth
+
+# Commemorated on this date

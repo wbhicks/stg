@@ -1,4 +1,4 @@
-# Published on this date
+# Published on this date in 2021
 
 => https://boingboing.net/2021/08/07/watch-this-short-documentary-about-the-influential-experimental-black-mountain-college.html
 
@@ -8,4 +8,5 @@
 
 by := Popkin
 
+# Commemorated on this date
 # Commemorated on this date
