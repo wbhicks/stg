@@ -5,6 +5,7 @@ As is the case elsewhere in this site:
 * Quotations from Wikipedia entries lack footnotes when appearing within a section about that same Wikipedia entry.
 * Footnotes within Wikipedia quotations have been removed.
 * 30 underscores are used for thematic breaks, always between blank lines.
+* The caret can be removed from both footnote parts to disable markdown rendering.
 
 ## Standalone entries, in alphabetical order by Wikipedia entry name
 
@@ -12,13 +13,12 @@ As is the case elsewhere in this site:
 
 ### John Baskerville
 
-born: unknown, "baptised on 28 January 1706 OS (1707 NS)"   
-died: 1775-01-08 (age 68), in Birmingham, England   
-
 > "His typefaces were greatly admired by Benjamin Franklin, a fellow printer ... An atheist, he nonetheless printed _The Book of Common Prayer_ in 1762 and a splendid folio Bible in 1763. ... His most notable typeface, Baskerville, is held to represent the peak of transitional type face and a bridge between Old Style and Modern type design. ... A Portland stone sculpture of the Baskerville typeface, _Industry and Genius_, in his honour stands in front of Baskerville House in Centenary Square, Birmingham. It was created by local artist David Patten in 1990." -- from
 
 => https://en.wikipedia.org/wiki/John_Baskerville   
-other URIs:   
+Born: unknown, "baptised on 28 January 1706 OS (1707 NS)"   
+Died: 1775-01-08 (age 68), in Birmingham, England   
+URIs:   
 => https://id.loc.gov/authorities/names/n81103313.html   
 => https://snaccooperative.org/ark:/99166/w6fr061c   
 
