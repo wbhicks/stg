@@ -1,12 +1,32 @@
 # Published on this date in 2021
 
-=> https://www.nytimes.com/2021/01/08/arts/design/affordable-multiple-goodman-art.html
+=> https://www.nytimes.com/2021/01/08/arts/design/affordable-multiple-goodman-art.html NYT
 
-"Who Said Art Is Only for the One Percent? Marian Goodman Gallery and MoMA are reviving interest in multiples — art produced in affordable editions for the ’60s middle-class. Now, some artists are taking up the cause."
-
-by := Blake Gopnik
+```
+hed:    "Who Said Art Is Only for the One Percent?"
+subhed: "Marian Goodman Gallery and MoMA are reviving interest in multiples -- art produced in affordable editions for the ’60s middle-class. Now, some artists are taking up the cause."
+author: Blake Gopnik
+```
 
 # Commemorated on this date
+
+1790: GW's 1st SoTU, including this passage:
+
+> "Nor am I less persuaded that you will agree with me in opinion that there is nothing which can better deserve your patronage than the promotion of science and literature. Knowledge is in every country the surest basis of public happiness. In one in which the measures of government receive their impressions so immediately from the sense of the community as in ours it is proportionably essential.
+>
+> To the security of a free constitution it contributes in various ways -- by convincing those who are intrusted with the public administration that every valuable end of government is best answered by the enlightened confidence of the people, and by teaching the people themselves to know and to value their own rights; to discern and provide against invasions of them; to distinguish between oppression and the necessary exercise of lawful authority; between burthens [i.e., burdens] proceeding from a disregard to their convenience and those resulting from the inevitable exigencies of society; to discriminate the spirit of liberty from that of licentiousness -- cherishing the first, avoiding the last -- and uniting a speedy but temperate vigilance against encroachments, with an inviolable respect to the laws." -- from
+
+=> https://en.wikisource.org/wiki/George_Washington%27s_First_State_of_the_Union_Address Wikisource   
+=> https://www.gutenberg.org/files/5050/5050-h/5050-h.htm#y1790a Gutenberg.org   
+=> https://www.presidency.ucsb.edu/documents/first-annual-address-congress-0 UCSB   
+
+1918: Woodrow Wilson's Fourteen Points speech to Congress
+
+=> https://en.wikipedia.org/wiki/Fourteen_Points WP / Fourteen Points
+
+1964: LBJ's 1st SoTU announces the war on poverty.
+
+=> https://en.wikipedia.org/wiki/War_on_poverty WP / War on poverty
 
 ## Deaths of ...
 
@@ -19,4 +39,10 @@ John Baskerville, 1775 (age 68), in Birmingham, England
 Emperor Norton, 1880 (age 61), in San Francisco
 
 Paul Verlaine, 1896 (age 51), in Paris
+
+Joseph Schumpeter, 1950 (age 66), in Salisbury, Connecticut, US
+
+Harriet Bedell, 1969 (age 94), in Davenport, Florida, US (feast day)
+
+Terry-Thomas, 1990 (age 78), in Godalming, Surrey, UK
 

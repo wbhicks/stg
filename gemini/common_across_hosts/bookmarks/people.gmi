@@ -10,6 +10,13 @@ As is the case elsewhere in this site:
 * The caret can be removed from both footnote parts to disable markdown rendering.
 * 2 or more trailing spaces stops Markdown renderers from joining adjacent lines. In such cases I use 3 for clarity in search.
 
+Tags used:
+
+* gafsbe - A placeholder catchall for The Gilded Age, fin de siècle, and Belle Époque
+* midcentury - Roughly 1930-1970
+* posthumous-move - This person's remains were relocated
+* social-science - The social sciences, broadly defined
+
 ## I.A. WP person entries (with ancillary non-person articles)
 
 ### Galileo
@@ -42,6 +49,19 @@ tags: posthumous-move
 ```
 
 => https://en.wikipedia.org/wiki/Antonio_Pucci_(poet) [1]: WP / Antonio Pucci (poet)
+
+### Harriet Bedell
+
+> "... moved to Goodland when the former city disbanded in 1957. She worked with whites, African Americans and indigenous people in Southwest Florida for the next three decades. The native Mikasuki gave Bedell the name Inkoshopie (meaning woman who prays) ... She also helped them sell their work to the tourist trade -- both through an arrangement with the Collier Company and by negotiating with northern department stores, as well as by fighting the sale of mislabeled import goods in local tourist outlets.
+>
+> ... In 1947, Bedell gave the invocation at President Harry S. Truman's dedication of Everglades National Park. ... The Episcopal Diocese of Southwest Florida began celebrating her life on the anniversary of her death, and the 8 January feast was extended to the Episcopal Church (USA) in 2009." -- from
+
+=> https://en.wikipedia.org/wiki/Harriet_Bedell WP / Harriet Bedell
+
+```
+born: 1875-03-19
+died: 1969-01-08 (age 94), in Davenport, Florida, US
+```
 
 ### John Baskerville
 
@@ -153,6 +173,22 @@ e when I was very young I confused the _Leeds Mercury_ with the _Western Morning
 
 [4]: Arthur Conan Doyle, _The Hound of the Baskervilles_ (1902)
 
+### Joseph Schumpeter
+
+> "Schumpeter claimed that he had set himself three goals in life: to be the greatest economist in the world, to be the best horseman in all of Austria, and the greatest lover in all of Vienna. He said he had reached two of his goals, but he never said which two, although he is reported to have said that there were too many fine horsemen in Austria for him to succeed in all his aspirations." -- from
+
+=> https://en.wikipedia.org/wiki/Joseph_Schumpeter WP / Joseph Schumpeter
+
+```
+born: 1883-02-08
+died: 1950-01-08 (age 66), in Salisbury, Connecticut, US
+tags: midcentury social-science
+```
+
+Schumpeter taught at Franz-Josephs-Universität (now Chernivtsi University).[1]
+
+=> https://en.wikipedia.org/wiki/Chernivtsi_University [1]: WP / Chernivtsi University
+
 ### Paul Verlaine
 
 > "Verlaine's last years saw his descent into drug addiction, alcoholism, and poverty. He lived in slums and public hospitals, and spent his days drinking absinthe in Paris cafés. However, the people's love for his art resurrected support and brought in an income for Verlaine: his early poetry was rediscovered, his lifestyle and strange behaviour in front of crowds attracted admiration, and in 1894 he was elected France's 'Prince of Poets' by his peers. ... he was buried in the Cimetière des Batignolles (he was first buried in the 20th division, but his grave was moved to the 11th division -- on the roundabout, a much better location -- when the Boulevard Périphérique was built)." -- from
@@ -162,10 +198,35 @@ e when I was very young I confused the _Leeds Mercury_ with the _Western Morning
 ```
 born: 1844-03-30
 died: 1896-01-08 (age 51), in Paris
-tags: posthumous-move
+tags: gafsbe posthumous-move
 ```
 
+### Terry-Thomas
+
+Appeared in 97 films (1933-1980), 149 radio shows (1938-1970), 110 TV shows not including advertisements (1947-1983), and received 42 stage credits in the theatre (1946-1971). Terry-Thomas also has a medical condition named after him (one which he himself never had).[1]
+
+> "By the time he reached adolescence, his parents' marriage had failed and both became alcoholics. In an attempt to bring them together, he often entertained them by performing impromptu slapstick routines, reciting jokes and singing and dancing around the family home. The performances seldom worked, and his father became increasingly distant from his family.
+>
+> ... he accepted a temporary position at Smithfield Market, where he earned 15 shillings a week as a junior transport clerk for the Union Cold Storage Company. ... He invented various characters ... and frequently recited comic stories involving them to his colleagues. His characterisations soon came to the notice of the company's management who prompted him to enrol in the company's amateur drama club. ... In 1933, he left Smithfield Market to work briefly with a friend at an electrical shop before he became [a] travelling salesman of electrical equipment. He enjoyed the job and relished being able to dress up in elaborate clothing in order to make his pitch. In his spare time, he began playing the ukulele with a local jazz band called the Rhythm Maniacs.
+>
+> ... Terry-Thomas finished the war as a sergeant, and was finally demobbed on 1 April 1946.
+>
+> ... By 1983, with his medical bills [incurred while resident in Spain, and so not under the NHS] at £40,000 a year and no longer able to work, Terry-Thomas's financial resources were dwindling. ... By 1984 Terry-Thomas was increasingly depressed by his condition and when he was interviewed that year, he admitted that "one doctor said I've got about four more years to live. God forbid! I shall probably blow my brains out first". In 1987 the couple could no longer afford to live in Spain, so moved back to London. They lived in a series of rented properties before ending up in a three-room, unfurnished charity flat, where they lived with financial assistance from the Actors' Benevolent Fund. Richard Briers was one of his first visitors at the flat, and was shocked by the change he saw: "Sitting there, motionless, he was just a mere shadow. A crippled, crushed, shadow. It was really bloody awful." On 9 April 1989 the actor Jack Douglas and Richard Hope-Hawkins organised a benefit concert for Terry-Thomas, after discovering he was living in virtual obscurity, poverty and ill health. The gala, held at the Theatre Royal, Drury Lane, ran for five hours, and featured 120 artists with Phil Collins topping the bill and Michael Caine as the gala chairman. The show raised over £75,000 for Terry-Thomas and Parkinson's UK. The funds from the charity concert allowed Terry-Thomas to move out of his charity flat and into Busbridge Hall nursing home in Godalming, Surrey. He died there on 8 January 1990, at the age of 78.
+>
+> ... Following Terry-Thomas's death, Lionel Jeffries called him "the last of the great gentlemen of the cinema", ... Reviewing his career in The Guardian, Adrian Turner considered that "we took him for granted and he was ideal for his time. Not to put too serious a point on it, his portrayal of crass stupidity and blatant deviousness struck a chord with British audiences during the fifties as they experienced the clumsy dismemberment of the Empire and the 'never had it so good' ethos of the Macmillan era. During the sixties he became a glorious anachronism, much in demand in America, who saw in him the irrelevant pageantry of Britain"; he also said Terry-Thomas was "a national treasure". Gilbert Adair, writing in The Independent, considered that "for three decades, and in literally scores of films, he personified the Englishman as amiable bounder"; ..." -- from
+
+=> https://en.wikipedia.org/wiki/Terry-Thomas WP / Terry-Thomas
+
+```
+born: 1911-07-10
+died: 1990-01-08 (age 78), in Godalming, Surrey, UK
+```
+
+=> https://en.wikipedia.org/wiki/Terry-Thomas_sign [1]: WP / Terry-Thomas sign
+
 ## I.B. WP link (and optionally URIs) only, for people in Wikipedia mentioned elsewhere in this file and otherwise unlisted
+
+This section is for disambiguation.
 
 => https://en.wikipedia.org/wiki/Antonio_Pucci_(poet) WP / Antonio Pucci (poet)   
 => https://en.wikipedia.org/wiki/Arthur_Conan_Doyle WP / Arthur Conan Doyle   
@@ -198,7 +259,7 @@ Sculpted a monument to John Baskerville, _Industry and Genius_ (1990), which sta
 => https://www.birmingham.gov.uk/info/50050/culture_arts_and_heritage/190/statues_and_public_art/5 [2]: Birmingham Govt.
 => https://en.wikipedia.org/wiki/Baskerville_House [3]: WP / Baskerville House
 
-## II.B. URIs only, for people mentioned elsewhere in this file and otherwise unlisted
+## II.B. Disambiguation, for people mentioned elsewhere in this file and otherwise unlisted
 
 Christopher Upton: author of _A History of Birmingham_ (Phillimore, 1993); _Living Back-to-back_ (Phillimore, 2005); _The Birmingham Parish Workhouse 1730-1840_ (University of Hertfordshire Press, 2019)
 
