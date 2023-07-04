@@ -1,10 +1,73 @@
 # Published on this date in 2023
 
-=> https://www.nytimes.com/2023/01/25/opinion/rural-voters-republican-realignment.html
+## Periodicals
 
-"The Resentment Fueling the Republican Party Is Not Coming From the Suburbs"
+### "The Resentment Fueling the Republican Party Is Not Coming From the Suburbs"
 
-"Justin Gest, a political scientist at George Mason University whose research — presented in “The White Working Class” and “Majority Minority” — focuses on cultural and class tensions, has a different but complementary take ..."
+=> https://www.nytimes.com/2023/01/25/opinion/rural-voters-republican-realignment.html NYT / by Thomas B. Edsall
+
+~ As is his wont [modernize to "As is his custom"? -- ȐD], Thomas Edsall brings a wealth of citations to his argument that, in the mapping from county population density[1] to partisan lean, the slope has been smoothing out. (For readers unfamiliar with US partisanship, I've drawn three ACII art graphs to suggest some historical context.)
+
+[1]: Or, perhaps equally well, the X axis can show a county's distance from the nearest metropolitan core, i.e. on a scale from periphery to centrality. Some of the studies Edsall cites use such a model, but others use pure population density.
+
+```
+Fig. 1 - A long time ago:        Fig. 2 - Not too long ago:       Fig. 3 - Now:
+lean |                           lean |                           lean |
+Rep. |        ....               Rep. |                           Rep. |.....
+     |      ..    ..                  |     ........                   |     ...
+     |   ...        ..                |.....        ..                 |        ....
+     |...             ..              |               ..               |            ...
+lean |                  ..       lean |                 ...       lean |               .....
+Dem. |____________________       Dem. |____________________       Dem. |____________________
+      ^                  ^             ^                  ^             ^                  ^
+  sparsely          densely        sparsely          densely        sparsely          densely
+  populated       populated        populated       populated        populated       populated
+```
+
+Fig. 1 - A long time ago:
+```
+lean |
+Rep. |        ....
+     |      ..    ..
+     |   ...        ..
+     |...             ..
+lean |                  ..
+Dem. |____________________
+      ^                  ^
+  sparsely          densely
+  populated       populated
+```
+
+Fig. 2 - Not too long ago:
+```
+lean |
+Rep. |
+     |     ........
+     |.....        ..
+     |               ..
+lean |                 ...
+Dem. |____________________
+      ^                  ^
+  sparsely          densely
+  populated       populated
+```
+
+Fig. 3 - Now:
+```
+lean |
+Rep. |.....
+     |     ...
+     |        ....
+     |            ...
+lean |               .....
+Dem. |____________________
+      ^                  ^
+  sparsely          densely
+  populated       populated
+```
+
+
+> "Justin Gest, a political scientist at George Mason University whose research — presented in “The White Working Class” and “Majority Minority” — focuses on cultural and class tensions, has a different but complementary take ..."
 
 Edsall also cites, among others:
 
@@ -18,6 +81,6 @@ Edsall also cites, among others:
 * "What Unites and Divides Urban, Suburban and Rural Communities" https://www.pewresearch.org/social-trends/2018/05/22/what-unites-and-divides-urban-suburban-and-rural-communities/
 * "Hollowing Out the Middle: The Rural Brain Drain and What It Means for America" https://shop.harvard.com/book/9780807006146
 
-by := Thomas B. Edsall
+[1]: Or, perhaps equally well, the X axis can show a county's distance from the nearest metropolitan core, i.e. on a scale from periphery to centrality. Some of the studies Edsall cites use such a model, but others use pure population density.
 
 # Commemorated on this date
