@@ -1,4 +1,6 @@
-# Published on this date in 2015
+# Published on this date
+
+## In 2015
 
 => https://www.politico.com/magazine/story/2015/05/the-gop-is-dying-off-literally-118035/
 
@@ -10,7 +12,7 @@
 
 by := Daniel J. McGraw
 
-# Published on this date in 2021
+## In 2021
 
 => https://www.cnet.com/news/nikola-tesla-invention-from-100-years-ago-suddenly-makes-more-sense-today/
 

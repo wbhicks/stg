@@ -1,4 +1,6 @@
-# Published on this date in 2021
+# Published on this date
+
+## In 2021
 
 => https://www.politico.com/news/magazine/2021/07/09/west-virginia-economy-paid-remote-work-498238
 
@@ -6,5 +8,4 @@
 
 by := Mackenzie Mays
 
-# Commemorated on this date
 # Commemorated on this date

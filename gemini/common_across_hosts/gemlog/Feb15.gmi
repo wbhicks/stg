@@ -1,11 +1,17 @@
-# Published on this date in 2023
+# Published on this date
 
-=> https://slate.com/culture/2023/02/hanging-out-sheila-liming-book-friendship-crisis.html
+## In 2023
 
-"The Case for Hanging Out - There’s a growing crisis in our social lives. Could the cure be this simple?"
+### "The Case for Hanging Out"
 
-Kill some time by hanging out with your friends and shooting the breeze.
+dek: "There’s a growing crisis in our social lives. Could the cure be this simple?"
 
-by := DAN KOIS
+=> https://slate.com/culture/2023/02/hanging-out-sheila-liming-book-friendship-crisis.html Slate / by Dan Kois
+
+~ The recommendation: Kill some time by hanging out with your friends and shooting the breeze.
 
 # Commemorated on this date
+
+1946: University of Pennsylvania hosts the official dedication of ENIAC ("Electronic Numerical Integrator And Computer"). See also:
+
+=> https://en.wikipedia.org/wiki/Manchester_Baby

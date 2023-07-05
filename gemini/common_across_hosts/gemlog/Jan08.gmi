@@ -1,12 +1,18 @@
-# Published on this date in 2021
+# Published on this date
 
-=> https://www.nytimes.com/2021/01/08/arts/design/affordable-multiple-goodman-art.html NYT
+## In 2021
 
-```
-hed:    "Who Said Art Is Only for the One Percent?"
-subhed: "Marian Goodman Gallery and MoMA are reviving interest in multiples -- art produced in affordable editions for the ’60s middle-class. Now, some artists are taking up the cause."
-author: Blake Gopnik
-```
+### "Who Said Art Is Only for the One Percent?"
+
+dek: "Marian Goodman Gallery and MoMA are reviving interest in multiples -- art produced in affordable editions for the '60s middle-class. Now, some artists are taking up the cause."
+
+=> https://www.nytimes.com/2021/01/08/arts/design/affordable-multiple-goodman-art.html NYT / by Blake Gopnik
+
+~ Referring to contemporary artist Danh Võ, Blake Gopnik writes:
+
+> "Mr. Vo sees the letter’s almost trivial price tag as adding conceptual heft to the piece."
+
+~ The social significance attached by some artists to the extremely low prices of their multiples has, I think, a close analogue in the infinite reproducibility of digital art, which some (most?) digital artists consider to be both good and intrinsic to their work.
 
 # Commemorated on this date
 

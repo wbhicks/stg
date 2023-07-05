@@ -1,4 +1,6 @@
-# Published on this date in 2021
+# Published on this date
+
+## In 2021
 
 => https://www.theatlantic.com/international/archive/2021/09/britain-france-us-aukus/620186/
 
@@ -6,5 +8,4 @@
 
 by := Tom McTague
 
-# Commemorated on this date
 # Commemorated on this date

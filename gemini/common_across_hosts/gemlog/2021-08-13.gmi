@@ -1,4 +1,6 @@
-# Published on this date in 2021
+# Published on this date
+
+## In 2021
 
 => https://www.vice.com/en/article/93ymxz/zillow-other-tech-firms-are-in-an-arms-race-to-buy-up-american-homes
 
@@ -22,5 +24,4 @@ cf. the counterpart to this article, which Vice published 3 days earlier
 
 by := AARON MAK
 
-# Commemorated on this date
 # Commemorated on this date

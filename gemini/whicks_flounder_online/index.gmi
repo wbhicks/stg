@@ -1,5 +1,8 @@
 # Placeholder index
 
+=> /bookmarks/people.gmi
+=> /bookmarks/non-periodicals.gmi
+
 The following link works only over http, and only when I'm logged in:
 
 => https://flounder.online/my_site

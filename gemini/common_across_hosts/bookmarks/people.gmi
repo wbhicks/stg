@@ -199,13 +199,14 @@ died: 1990-01-08 (age 78), in Godalming, Surrey, UK
 
 => https://en.wikipedia.org/wiki/Terry-Thomas_sign [1]: WP / Terry-Thomas sign
 
-## I.B. WP link (and optionally URIs) only, for people in Wikipedia mentioned elsewhere in this file and otherwise unlisted
+## I.B. WP link (and optionally URIs) only, for people in Wikipedia mentioned elsewhere in this site and otherwise unlisted
 
 This section is for disambiguation.
 
 => https://en.wikipedia.org/wiki/Antonio_Pucci_(poet) WP / Antonio Pucci (poet)   
 => https://en.wikipedia.org/wiki/Arthur_Conan_Doyle WP / Arthur Conan Doyle   
 => https://en.wikipedia.org/wiki/Benjamin_Franklin WP / Benjamin Franklin   
+=> https://en.wikipedia.org/wiki/Danh_V%C3%B5 WP / Danh Võ   
 => https://en.wikipedia.org/wiki/Emperor_Norton WP / Emperor Norton   
 => https://en.wikipedia.org/wiki/Jared_Sparks WP / Jared Sparks   
 => https://en.wikipedia.org/wiki/Virgil WP / Virgil   

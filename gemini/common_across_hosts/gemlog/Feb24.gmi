@@ -1,11 +1,15 @@
-# Published on this date in 2023
+# Published on this date
 
-=> https://www.nytimes.com/2023/02/24/opinion/retirement-long-term-care-annuity.html 
+## In 2023
 
-"The Perfect Retirement Investment Nobody Wants, Part 2"
+### "The Perfect Retirement Investment Nobody Wants, Part 2"
 
-"... insurers could charge less for long-term care insurance and annuities by combining them, because the risks to the insurer would partly offset each other ..."
+=> https://www.nytimes.com/2023/02/24/opinion/retirement-long-term-care-annuity.html NYT / by Peter Coy
 
-by := Peter Coy
+~ An example of how small-scale regulatory reform can foster new markets:
+
+> "... insurers could charge less for long-term care insurance and annuities by combining them, because the risks to the insurer would partly offset each other ..."
 
 # Commemorated on this date
+
+1803: SCotUS issues its decision in Marbury v. Madison

@@ -1,11 +1,21 @@
-# Published on this date in 2023
+# Published on this date
 
-=> https://www.nhpr.org/nh-news/2023-02-23/you-have-to-be-dangerous-back-why-some-lgbtq-people-in-new-hampshire-are-taking-up-arms
+## In 2023
 
-"‘You have to be dangerous back.’ Why some LGBTQ people in New Hampshire are taking up arms
+### "‘You have to be dangerous back.’ Why some LGBTQ people in New Hampshire are taking up arms"
 
-"While Pink Pistol clubs have been around since at least 2000, there’s only limited data available on gun ownership rates among LGBTQ people. In 2020, a UCLA study found that 21.5 percent of lesbian, gay and bisexual people live in a house with a firearm, compared to 36 percent of heterosexual adults. ... In terms of partisan breakdown, a recent Pew study found that about one-in-five self-identified Democrats own a gun, compared to nearly half of Republicans."
+=> https://www.nhpr.org/nh-news/2023-02-23/you-have-to-be-dangerous-back-why-some-lgbtq-people-in-new-hampshire-are-taking-up-arms NPR / by Todd Bookman
 
-by := Todd Bookman
+> "While Pink Pistol clubs have been around since at least 2000, there’s only limited data available on gun ownership rates among LGBTQ people. In 2020, a UCLA study found that 21.5 percent of lesbian, gay and bisexual people live in a house with a firearm, compared to 36 percent of heterosexual adults. ... In terms of partisan breakdown, a recent Pew study found that about one-in-five self-identified Democrats own a gun, compared to nearly half of Republicans."
 
 # Commemorated on this date
+
+532: The foundation stone (cornerstone) of the Hagia Sophia is laid in Constantinople by Justinian I.
+
+1763: Republic Day in Guyana, commemorating the start of the Berbice slave uprising.
+
+1942: A Japanese submarine fires shells at targets on shore near Santa Barbara, California.
+
+> "Brown and the others called the police, as the Japanese shells continued to fall around them." -- from
+
+=> https://en.wikipedia.org/wiki/Bombardment_of_Ellwood WP / Bombardment of Ellwood

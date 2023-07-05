@@ -1,11 +1,17 @@
-# Published on this date in 2023
+# Published on this date
 
-=> https://www.motherjones.com/politics/2023/02/columbia-journalism-review-jeff-gerth-trump-russia-the-media/
+## In 2023
 
-"Columbia Journalism Review’s Big Fail: It Published 24,000 Words on Russiagate and Missed the Point - The magazine’s attempted takedown of the media’s coverage bolsters Trump’s phony narrative."
+### "Columbia Journalism Review's Big Fail: It Published 24,000 Words on Russiagate and Missed the Point"
 
-"Yet the focus on collusion and the Steele material has been a purposeful distraction meant to obscure the basics of the scandal: Vladimir Putin attacked the 2016 election in part to help Trump win, and Trump and his aides aided and abetted this assault on American democracy by denying such an attack was happening. Trump provided cover for a foreign adversary subverting a US election."
+dek: "The magazine's attempted takedown of the media's coverage bolsters Trump's phony narrative."
 
-by := David Corn 
+=> https://www.motherjones.com/politics/2023/02/columbia-journalism-review-jeff-gerth-trump-russia-the-media/ Mother Jones / by David Corn
+
+~ David Corn succinctly recaps the help Trump chose to lend Putin in 2016:
+
+> "Yet the focus on collusion and the Steele material has been a purposeful distraction meant to obscure the basics of the scandal: Vladimir Putin attacked the 2016 election in part to help Trump win, and Trump and his aides aided and abetted this assault on American democracy by denying such an attack was happening. Trump provided cover for a foreign adversary subverting a US election."
 
 # Commemorated on this date
+
+Groundhog Day
