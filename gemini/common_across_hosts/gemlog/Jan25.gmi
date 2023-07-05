@@ -29,38 +29,73 @@ Edsall cites, among others:
 
 "Rural America Lost Population Over the Past Decade for the First Time in History"
 
+=> https://carsey.unh.edu/publication-rural-america-lost-population-over-past-decade-for-first-time-in-history UNH.edu / by Kenneth Johnson
+
 ```
-date: February 22, 2022
-author: Kenneth Johnson, senior demographer at the Carsey School of Public Policy and professor of sociology at the University of New Hampshire
-author-url: https://carsey.unh.edu/person/kenneth-johnson
+date: 2022-02-22
 publisher: Carsey School of Public Policy, University of New Hampshire
 ```
 
-=> https://carsey.unh.edu/publication-rural-america-lost-population-over-past-decade-for-first-time-in-history UNH.edu / by Kenneth Johnson
-
 ______________________________
-
 "The Increase in Partisan Segregation in the United States"
+
+=> http://congress-files.s3.amazonaws.com/2022-07/Brown_Cantoni_Enos_Pons_Sartre%2520%25282022%2529_0.pdf draft / by Jacob R. Brown et al.
 
 ```
 date: January 17, 2022
-authors: Jacob R. Brown et al.
+authors: Jacob R. Brown, Enrico Cantoni, Ryan D. Enos, Vincent Pons and Emilie Sartre 
 version: first draft
 ```
 
-=> http://congress-files.s3.amazonaws.com/2022-07/Brown_Cantoni_Enos_Pons_Sartre%2520%25282022%2529_0.pdf first draft / by Brown, Cantoni, Enos, Pons and Sartre
+______________________________
+"The Politics of Resentment: Rural Consciousness in Wisconsin and the Rise of Scott Walker"
+
+=> https://press.uchicago.edu/ucp/books/book/chicago/P/bo22879533.html U. of Chicago Press / by Katherine J. Cramer (2016)
 
 ______________________________
+"Red Fighting Blue: How Geography and Electoral Rules Polarize American Politics"
 
+=> https://www.cambridge.org/core/books/red-fighting-blue/5BED65A27BC1399564B4A5863A1E899C Cambridge U. Press / by David A. Hopkins (2017)
 
-* "The Politics of Resentment: Rural Consciousness in Wisconsin and the Rise of Scott Walker" https://press.uchicago.edu/ucp/books/book/chicago/P/bo22879533.html
-* "Red Fighting Blue: How Geography and Electoral Rules Polarize American Politics" https://www.cambridge.org/core/books/red-fighting-blue/5BED65A27BC1399564B4A5863A1E899C
-* "The Suburbanization of the Democratic Party, 1992-2018" https://www.cookpolitical.com/sites/default/files/2019-09/Hopkins%20Suburbanization%20APSA%202019.pdf
-* "Place-Based Resentment in Contemporary U.S. Elections: The Individual Sources of America’s Urban-Rural Divide" https://static1.squarespace.com/static/580ab33829687f686ad6cbb1/t/6319051814f1302127e75b39/1662584089724/JacobsMunis2022-place-resentment-elections-vote-choice-urban-rural-divide.pdf
-* "Symbolic Versus Material Concerns of Rural Consciousness in the United States" https://www.sciencedirect.com/science/article/abs/pii/S0962629822000725
-* "What Unites and Divides Urban, Suburban and Rural Communities" https://www.pewresearch.org/social-trends/2018/05/22/what-unites-and-divides-urban-suburban-and-rural-communities/
-* "Hollowing Out the Middle: The Rural Brain Drain and What It Means for America" https://shop.harvard.com/book/9780807006146
+______________________________
+"The Suburbanization of the Democratic Party, 1992-2018 (Paper presented at the Annual Meetings of the American Political Science Association, Washington, DC, August 29, 2019)"
 
-> "Justin Gest, a political scientist at George Mason University whose research — presented in “The White Working Class” and “Majority Minority” — focuses on cultural and class tensions, has a different but complementary take ..."
+=> https://www.cookpolitical.com/sites/default/files/2019-09/Hopkins%20Suburbanization%20APSA%202019.pdf paper / by David A. Hopkins (2019)
 
+______________________________
+"Place-Based Resentment in Contemporary U.S. Elections: The Individual Sources of America's Urban-Rural Divide (Political Research Quarterly 2022, Vol. 0(0) 1-16)"
+
+=> https://static1.squarespace.com/static/580ab33829687f686ad6cbb1/t/6319051814f1302127e75b39/1662584089724/JacobsMunis2022-place-resentment-elections-vote-choice-urban-rural-divide.pdf reprint / by Nicholas Jacobs and B. Kal Munis
+
+______________________________
+"Symbolic Versus Material Concerns of Rural Consciousness in the United States (Political Geography, Volume 96, June 2022, 102658)"
+
+=> https://www.sciencedirect.com/science/article/abs/pii/S0962629822000725 reprint / by Kristin Lunz Trujillo and Zack Crowley
+
+______________________________
+"What Unites and Divides Urban, Suburban and Rural Communities"
+
+=> https://www.pewresearch.org/social-trends/2018/05/22/what-unites-and-divides-urban-suburban-and-rural-communities/ Pew Research Center / by Kim Parker et al.
+
+```
+date: 2018-05-22
+authors: Kim Parker, Juliana Menasce Horowitz, Anna Brown, Richard Fry, D'vera Cohn and Ruth Igielnik
+```
+
+______________________________
+"Hollowing Out the Middle: The Rural Brain Drain and What It Means for America"
+
+=> https://shop.harvard.com/book/9780807006146 Beacon Press / by Patrick J. Carr and Maria J. Kefalas (2010)
+
+______________________________
+Edsall also quotes from his email correspondence with Justin Gest at George Mason University.
+
+=> https://schar.gmu.edu/profiles/jgest GMU / Justin Gest
+
+______________________________
 # Commemorated on this date
+
+1792: First meeting of the
+
+=> https://en.wikipedia.org/wiki/London_Corresponding_Society London Corresponding Society
+
