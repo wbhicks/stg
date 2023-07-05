@@ -6,73 +6,53 @@
 
 => https://www.nytimes.com/2023/01/25/opinion/rural-voters-republican-realignment.html NYT / by Thomas B. Edsall
 
-~ As is his wont [modernize to "As is his custom"? -- ȐD], Thomas Edsall brings a wealth of citations to his argument that, in the mapping from county population density[1] to partisan lean, the slope has been smoothing out. (For readers unfamiliar with US partisanship, I've drawn three ACII art graphs to suggest some historical context.)
+~ As is his wont [modernize to "As is his custom"? -- ȐD], Thomas Edsall brings a wealth of citations to his argument that, in the mapping from county population density[1] to partisan lean, the slope has been smoothing out. (For readers unfamiliar with US partisanship, I've drawn three ASCII art graphs to suggest some historical context.)
 
 [1]: Or, perhaps equally well, the X axis can show a county's distance from the nearest metropolitan core, i.e. on a scale from periphery to centrality. Some of the studies Edsall cites use such a model, but others use pure population density.
 
 ```
 Fig. 1 - A long time ago:        Fig. 2 - Not too long ago:       Fig. 3 - Now:
+
 lean |                           lean |                           lean |
 Rep. |        ....               Rep. |                           Rep. |.....
-     |      ..    ..                  |     ........                   |     ...
-     |   ...        ..                |.....        ..                 |        ....
+     |      ..    ..                  |     .......                    |     ...
+     |   ...        ..                |.....       ...                 |        ....
      |...             ..              |               ..               |            ...
 lean |                  ..       lean |                 ...       lean |               .....
 Dem. |____________________       Dem. |____________________       Dem. |____________________
       ^                  ^             ^                  ^             ^                  ^
-  sparsely          densely        sparsely          densely        sparsely          densely
-  populated       populated        populated       populated        populated       populated
+  sparsely         densely         sparsely         densely         sparsely         densely
+  populated      populated         populated      populated         populated      populated
 ```
 
-Fig. 1 - A long time ago:
+Edsall cites, among others:
+
+"Rural America Lost Population Over the Past Decade for the First Time in History"
+
 ```
-lean |
-Rep. |        ....
-     |      ..    ..
-     |   ...        ..
-     |...             ..
-lean |                  ..
-Dem. |____________________
-      ^                  ^
-  sparsely          densely
-  populated       populated
+date: February 22, 2022
+author: Kenneth Johnson, senior demographer at the Carsey School of Public Policy and professor of sociology at the University of New Hampshire
+author-url: https://carsey.unh.edu/person/kenneth-johnson
+publisher: Carsey School of Public Policy, University of New Hampshire
 ```
 
-Fig. 2 - Not too long ago:
+=> https://carsey.unh.edu/publication-rural-america-lost-population-over-past-decade-for-first-time-in-history UNH.edu / by Kenneth Johnson
+
+______________________________
+
+"The Increase in Partisan Segregation in the United States"
+
 ```
-lean |
-Rep. |
-     |     ........
-     |.....        ..
-     |               ..
-lean |                 ...
-Dem. |____________________
-      ^                  ^
-  sparsely          densely
-  populated       populated
+date: January 17, 2022
+authors: Jacob R. Brown et al.
+version: first draft
 ```
 
-Fig. 3 - Now:
-```
-lean |
-Rep. |.....
-     |     ...
-     |        ....
-     |            ...
-lean |               .....
-Dem. |____________________
-      ^                  ^
-  sparsely          densely
-  populated       populated
-```
+=> http://congress-files.s3.amazonaws.com/2022-07/Brown_Cantoni_Enos_Pons_Sartre%2520%25282022%2529_0.pdf first draft / by Brown, Cantoni, Enos, Pons and Sartre
+
+______________________________
 
 
-> "Justin Gest, a political scientist at George Mason University whose research — presented in “The White Working Class” and “Majority Minority” — focuses on cultural and class tensions, has a different but complementary take ..."
-
-Edsall also cites, among others:
-
-* "Rural America Lost Population Over the Past Decade for the First Time in History" https://carsey.unh.edu/publication-rural-america-lost-population-over-past-decade-for-first-time-in-history
-* "The Increase in Partisan Segregation in the United States" http://congress-files.s3.amazonaws.com/2022-07/Brown_Cantoni_Enos_Pons_Sartre%2520%25282022%2529_0.pdf
 * "The Politics of Resentment: Rural Consciousness in Wisconsin and the Rise of Scott Walker" https://press.uchicago.edu/ucp/books/book/chicago/P/bo22879533.html
 * "Red Fighting Blue: How Geography and Electoral Rules Polarize American Politics" https://www.cambridge.org/core/books/red-fighting-blue/5BED65A27BC1399564B4A5863A1E899C
 * "The Suburbanization of the Democratic Party, 1992-2018" https://www.cookpolitical.com/sites/default/files/2019-09/Hopkins%20Suburbanization%20APSA%202019.pdf
@@ -81,6 +61,6 @@ Edsall also cites, among others:
 * "What Unites and Divides Urban, Suburban and Rural Communities" https://www.pewresearch.org/social-trends/2018/05/22/what-unites-and-divides-urban-suburban-and-rural-communities/
 * "Hollowing Out the Middle: The Rural Brain Drain and What It Means for America" https://shop.harvard.com/book/9780807006146
 
-[1]: Or, perhaps equally well, the X axis can show a county's distance from the nearest metropolitan core, i.e. on a scale from periphery to centrality. Some of the studies Edsall cites use such a model, but others use pure population density.
+> "Justin Gest, a political scientist at George Mason University whose research — presented in “The White Working Class” and “Majority Minority” — focuses on cultural and class tensions, has a different but complementary take ..."
 
 # Commemorated on this date
