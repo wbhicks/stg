@@ -2,10 +2,143 @@
 
 ## In 2021
 
-=> https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot
+### "The forgotten medieval fruit with a vulgar name"
 
-"The forgotten medieval fruit with a vulgar name"
+dek: "Medieval Europeans were fanatical about a strange fruit that could only be eaten rotten. Then it was forgotten altogether. Why did they love it so much? And why did it disappear?"
 
-by := Zaria Gorvett
+=> https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot BBC / by Zaria Gorvett
+
+~ The medlar, also known as the "open-arse", the "monkey's bottom", etc.. On the BBC Future subsite of the BBC Britain news site, Zaria Gorvett writes:
+
+> "The fruit reached its peak in the 1600s ... It was still widely known until the early 20th Century, though less celebrated. Then in the 1950s it abruptly vanished from the public consciousness altogether."
+>
+> "... In the medlar's native territory near the Caspian Sea, the fruit remains as popular as ever. It's still widely grown in Iran, Azerbaijan, Kyrgyzstan, Georgia and Turkey, where it's sold in markets as musmula."
+
+~ In the UK, one likely contributor to the medlar's decline was the increasing availability of year-round tropical fruits, Gorvett reports; another she cites is the relative inconvenience of winter-picking and ripening[1] the medlar.
+
+[1]: "put them in a crate of sawdust or straw and forget about them for several weeks"
+
+See also
+=> https://en.wikipedia.org/wiki/Mespilus_germanica WP / Medlar
+
+~ The medlar figures in the prologue to one of Chaucer's Canterbury Tales, _The Reeve's Tale_. Here's the relevant passage, excerpted from the prologue:
+
+```
+But ik am old, me list not pley for age;
+Gras-tyme is doon, my fodder is now forage,
+This whyte top wryteth myne olde yeres,
+Myn herte is al-so mowled as myne heres,
+But-if I fare as dooth an open-ers;
+That ilke fruyt is ever lenger the wers,
+Til it be roten in mullok or in stree.
+We olde men, I drede, so fare we;
+Til we be roten, can we nat be rype;
+We hoppen alwey, whyl that the world wol pype.
+```
+
+~ Again, but with some annotations and a very rough line-by-line translation (not meant to stand on its own):
+
+```
+But ik[1] am old, me list[2] not pley for age;
+ ↳ But I am old, I wish not [to] play, for [because of my] age;
+Gras-tyme is doon[3], my fodder is now forage,[4]
+ ↳ Grass-time is done, my fodder is now [my] forage [i.e. I foraged when younger, but now must be given fodder],
+This whyte top[5] wryteth myne olde yeres,[6]
+ ↳ This white[-haired] head writes [i.e. signifies] my old years,
+Myn herte is al-so mowled[7] as myne heres,[8]
+ ↳ My heart is as [moldy/old] as my hairs,
+But-if[9] I fare as dooth[10] an open-ers;[11][12]
+ ↳ Unless I fare as does a medlar [an open-arse];
+That ilke fruyt[13] is ever lenger the wers,[14]
+ ↳ That very fruit is ever longer the worse,
+Til it be roten in mullok[15] or in stree.[16]
+ ↳ Till it be rotten [whether] in rubbish or [stored for ripening] in straw.
+We olde men, I drede, so fare we;
+ ↳ We old men, I dread, so [too] fare we;
+Til we be roten, can we nat be rype;
+ ↳ Till we be rotten, we can not be ripe;
+We hoppen[17] alwey, whyl that the world wol pype.
+ ↳ We dance always, while the world will pipe.
+```
+
+[1]: I
+[2]: wish, want, lust
+[3]: done, over with
+[4]: In his annotated edition of 1900, W. W. Skeat explains this line: "_gras-time_, the time when a horse feeds himself in the fields. _My fodder is now forage_, my food is now such as is provided for me; I am like a horse in winter, whose food is hay in a stable."
+[5]: head, top of one's head
+[6]: From Skeat's notes: "I take this to mean -- 'my old years write (mark upon me) this white head,' i. e. turn me grey."
+[7]: old, moldy
+[8]: From Skeat's notes: "'My heart is as old (lit. mouldy) as my hairs are.' Mouled is the old pp. out of which we have made the mod. E. mould-y, adding -y by confusion with the adj. formed from mould, the ground. It is fully explained in the Addenda to my Etym. Dict. 2nd ed. p. 818; and the verb moulen, to grow mouldy, occurs in B. 32."
+[9]: unless
+[10]: does
+[11]: a medlar fruit. The medieval _ers_ is the modern "arse" (British) or "ass" (American).
+[12]: From Skeat's notes (covering this and the following two lines): "'Unless I grow like a medlar, which gets worse all the while, till it be quite rotten, when laid up in a heap of rubbish or straw.'"
+[13]: that same fruit, that very fruit
+[14]: worse
+[15]: rubbish, trash, refuse
+[16]: straw
+[17]: From Skeat's notes: "_hoppen_, dance"
+
+~ Noticing Skeat's comment about the line that appears third in this excerpt, I was struck by the reversibility of the subject-object relation in the line. I first read it to mean that white hair signifies old age, but Skeat showed me that Chaucer's verb, _to write_, accommodates the reverse interpretation as easily, i.e. that old age has written the white hairs on the speaker's head. Where does this ambiguity come from? When _to write_ is used metaphorically, does it always invite this two-directional reading?
+
+~ I don't think these are questions about poetry, although its easy acceptance of inverted word order makes reversibility less conspicuous. To see this, and in an effort to answer the two questions above by applying Chaucer's metaphor under more prosaic conditions, I will substitute a statement pair for the line in question. Then I'll modify the pair over a few iterations, in the last of which I'll impose the metaphor of writing. (The statements will always be in the active voice.)
+
+* White hair results from a person's old age.
+* A person's old age causes their white hair.
+
+~ In this first iteration, I am using the terminology of cause-and-effect. In neither statement is the subject-object relation reversible, because each statement is (statistically) plausible but each reversal ("Old age results from white hair" or "White hair causes old age") is false.
+
+~ Note that this is unrelated to the poetic convention of inverted word order. To see this, suppose that you came across the first statement as a line of light verse, or in a flowery comic monologue, with a comma after _age_. This would invite you to at least entertain the fanciful interpretation that _hair_ is the subject and _age_ the object, but it would still be the case that the truth value of the statement changes (from true, or at least statistically plausible, to false) when the subject and object are swapped.
+
+~ To see if reversibility emerges when the relation between the nouns is modeled differently, here is a second iteration, replacing the terminology of cause-and-effect with the terminology of representation:
+
+* White hair indicates (or signifies) a person's old age.
+* A person's old age accounts for (or contextualizes, or makes comprehensible) their white hair.
+
+~ Here, too, any attempted reversal of subject and object will fail in either sentence. What to try next? Without applying a metaphor (and setting aside the troublesome question of whether any choice of model/terminology is unavoidably metaphorical), the only model whose terminology strikes me as supporting subject-object reversibility is that of statistical implication, but that is a trivial solution because it tells us so little. (Saying only that two things are usually seen together fails to justify a claim to the reader's attention, whether in poetry or literary prose.) To wit:
+
+* White hair likely implies old age.
+* Old age is, loosely, a condition for white hair.
+
+~ Or, to remove any lingering connotation of cause-and-effect:
+
+* X and Y are correlated.
+
+~ So, we have achieved reversibility but at the cost of not saying anything worthwhile. Having thus tried some alternatives, let's restore Chaucer's metaphor, while sticking to a prosaic statement pair in the active voice:
+
+* White hair writes a person's old age.
+* A person's old age writes their white hair.
+
+~ As was the case when the terminology of statistical implication was used, each statement keeps its truthfulness when subject and object are reversed. (In fact, each half of the pair happens to be the reverse of the other, because in this iteration they use the same verb and verb form.) But is each underlying assertion meaningful in its own right, or does the pair simply state one thing (and a mere correlation, at that) twice?
+
+~ To argue that each assertion is meaningful, I'll make each occurrence of the metaphor a bit more vivid and particularized, without displacing the act of writing as its central idea. My goal in this final iteration is not to preserve subject-object reversibility -- as shown above, both Chaucer's choice of _wryteth_ and its modern equivalent, _writes_, exhibit that quality -- but rather to highlight the unique meaning that each of the two directed relations contributes:
+
+* White hair spells out a person's old age.
+* A person's old age is the author of their white hair.
+
+~ This shows that the metaphor of writing, at least in this line of Chaucer's, does much more than to state an implication or correlation, and I think it also shows that it leverages subject-object reversibility to convey two (at least) independent insights. I don't know if the choice of some form (or near synonym) of _to write_, when used as a metaphor, always accomplishes this superposition.
+
+See also
+=> https://en.wikipedia.org/wiki/Subject%E2%80%93verb_inversion_in_English WP / Subject–verb inversion in English
+=> https://en.wikipedia.org/wiki/Anastrophe WP / Anastrophe
+
+~ Incidentally, the Reeve seems to have both a low opinion of medlars (the modern name for the "open-ers" fruit) and a despondent view of old age, as shown most explicitly by his choice of _dread_ when he says "We olde men, I drede, so fare we". But in fact the medlar cheats decrepitude, if not death, because its sweet ripeness arrives when it looks most rotten. Fruit being much more about taste than looks, Chaucer's analogy therefore supports a hopeful reading of the last couplet (an ironic one, given the Reeve's intent), one in which physical decline may herald a ripeness of spirit or heart:
+
+```
+Til we be roten, can we nat be rype;
+ ↳ Till we be rotten, we can not be ripe;
+We hoppen alwey, whyl that the world wol pype.
+ ↳ We dance always, while the world will pipe.
+```
 
 # Commemorated on this date
+
+1911: Triangle Shirtwaist Factory fire in Greenwich Village kills 146 garment workers.
+
+=> https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire WP / Triangle Shirtwaist Factory fire
+
+______________________________
+
+Paragraphs beginning with a tilde (~) are original content © 2023 William Hicks, licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, available via this link:
+=> http://creativecommons.org/licenses/by-nc-sa/4.0/ CC BY-NC-SA 4.0 License
+
