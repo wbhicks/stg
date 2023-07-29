@@ -1,7 +1,14 @@
-# Placeholder index
+# Welcome
 
+... to my Gemini site, at both envs.net and flounder.online. Everything on my Gemini site is under construction and incomplete.
+
+=> gemlog/
 => /bookmarks/people.gmi
-=> /bookmarks/non-periodicals.gmi
+=> bookmarks/non-periodicals.gmi
+
+(As above, a preceding slash is optional.) Here's an absolute reference, starting with 2 slashes and domain:
+
+=> //whicks.flounder.online/gemlog/
 
 The following link works only over http, and only when I'm logged in:
 
@@ -11,34 +18,15 @@ Link to Flounder.online's http login page:
 
 => https://flounder.online/login
 
-## Links to gemlog
+## Notice
 
-Starting with 2 slashes and domain:
+Paragraphs, and lines, beginning with a tilde (~) are original content © 2023 William Hicks, licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, available via this link:
+=> http://creativecommons.org/licenses/by-nc-sa/4.0/ CC BY-NC-SA 4.0 License
 
-=> //whicks.flounder.online/gemlog/
+All of the original content by William Hicks in this work is licensed under the above grant. Portions of this work are not original content by William Hicks and therefore are not covered under the above grant. This includes all quotations, whether block or run-in. Rights held by others may impact your ability to reuse the portions of this work not covered under the above grant.
 
-Slash, gemlog, slash:
+You may have other rights to reuse this work. For example, as the Creative Commons organization says, "CC licenses do not reduce, limit, or restrict any rights under exceptions and limitations to copyright, such as fair use or fair dealing. If your use of CC-licensed material would otherwise be allowed because of an applicable exception or limitation, you do not need to rely on the CC license or comply with its terms and conditions." Source:
+=> https://creativecommons.org/faq/
 
-=> /gemlog/
-
-Just gemlog and a trailing slash:
-
-=> gemlog/
-
-gh := t
-
-## Bookmark project (nascent)
-
-With preceding slash:
-
-=> /bookmarks/non-periodicals.gmi
-
-No prefix:
-
-=> bookmarks/non-periodicals.gmi
-
-//urlwithoutgemtextindicator.org
-
-> Using a block quote in place of quotation marks
-
-Having fun without CR/LF
+Information about your rights to Wikipedia content reprinted in this work is available via this link:
+=> https://en.wikipedia.org/wiki/Wikipedia:Copyrights
