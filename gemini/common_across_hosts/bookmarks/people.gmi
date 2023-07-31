@@ -14,7 +14,7 @@ Tags used:
 
 * gafsbe - A placeholder catchall for The Gilded Age, fin de siècle, and Belle Époque
 * midcentury - Roughly 1930-1970
-* posthumous-move - This person's remains were relocated
+* posthumous-move - This person's remains were relocated [also used in gemlog]
 * social-science - The social sciences, broadly defined
 
 ## I.A. WP person entries (with ancillary non-person articles)
