@@ -2,10 +2,10 @@
 
 ## In 2022
 
-=> https://slate.com/technology/2022/12/medical-debt-collections-credit-report-burden.html
+### "I’ve Been Plagued by Medical Debt for Years. Here’s What Happened When I Tried to Pay a $2 Medical Bill."
 
-"I’ve Been Plagued by Medical Debt for Years. Here’s What Happened When I Tried to Pay a $2 Medical Bill. - Recent changes—and more coming in early 2023—could bring some relief to a very broken system."
+dek: "Recent changes—and more coming in early 2023—could bring some relief to a very broken system."
 
-by := BOBBI DEMPSEY
+=> https://slate.com/technology/2022/12/medical-debt-collections-credit-report-burden.html Slate / by Bobbi Dempsey
 
 # Commemorated on this date

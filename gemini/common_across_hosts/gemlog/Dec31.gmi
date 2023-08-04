@@ -2,12 +2,10 @@
 
 ## In 2022
 
-=> https://www.nytimes.com/2022/12/31/opinion/southwest-airlines-computers.html
+### "The Shameful Open Secret Behind Southwest’s Failure"
 
-"The Shameful Open Secret Behind Southwest’s Failure"
+=> https://www.nytimes.com/2022/12/31/opinion/southwest-airlines-computers.html NYT / by Zeynep Tufekci
 
 "While aging code is a common cause of technical debt in older companies ..."
-
-by := Zeynep Tufekci
 
 # Commemorated on this date

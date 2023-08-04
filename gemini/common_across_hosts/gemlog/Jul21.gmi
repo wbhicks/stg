@@ -1,6 +1,14 @@
 # Published on this date
 
-## In 20__
+## In 2021
+
+### "When it comes to reopening after coronavirus, income matters more than party"
+
+dek: "Cell phone data shows a partisan split on how quickly people are returning to their normal routines. But there’s an even bigger income divide."
+
+=> https://www.politico.com/interactives/2021/coronavirus-reopening-by-county-income/ Politico / by Beatrice Jin
+
+In Politico, Beatrice Jin writes: "Here, we’ve split the two partisan lines into four, separating out counties whose residents earn less than the median national household income, and those who earn more. ... higher-income Republican counties looked much more like higher-income Democratic counties than their lower-income counterparts. ... Simply put, lower-income workers have fewer options to stay home."
 
 # Commemorated on this date
 

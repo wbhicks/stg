@@ -2,10 +2,10 @@
 
 ## In 2022
 
-=> https://www.nytimes.com/2022/11/29/nyregion/nyc-mentally-ill-involuntary-custody.html
+### "New York City to Involuntarily Remove Mentally Ill People From Streets"
 
-"New York City to Involuntarily Remove Mentally Ill People From Streets - Mayor Eric Adams directed the police and emergency medical workers to hospitalize people they deemed too mentally ill to care for themselves, even if they posed no threat to others."
+dek: "Mayor Eric Adams directed the police and emergency medical workers to hospitalize people they deemed too mentally ill to care for themselves, even if they posed no threat to others."
 
-by := Andy Newman and Emma G. Fitzsimmons
+=> https://www.nytimes.com/2022/11/29/nyregion/nyc-mentally-ill-involuntary-custody.html NYT / by Andy Newman and Emma G. Fitzsimmons
 
 # Commemorated on this date

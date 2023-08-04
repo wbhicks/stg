@@ -2,10 +2,10 @@
 
 ## In 2023
 
-=> https://www.nytimes.com/2023/03/28/science/lightning-rod-video.html
+### "One of the Luckiest Lightning Strikes Ever Recorded"
 
-"One of the Luckiest Lightning Strikes Ever Recorded - Brazilian researchers captured on camera the brief moment when lightning rods on buildings released an upward discharge to attract incoming lightning."
+dek: "Brazilian researchers captured on camera the brief moment when lightning rods on buildings released an upward discharge to attract incoming lightning."
 
-by := Nicholas Bakalar
+=> https://www.nytimes.com/2023/03/28/science/lightning-rod-video.html NYT / by Nicholas Bakalar
 
 # Commemorated on this date

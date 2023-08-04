@@ -2,10 +2,10 @@
 
 ## In 2015
 
-=> https://www.theatlantic.com/technology/archive/2015/08/ballpoint-pens-object-lesson-history-handwriting/402205/
+### "How the Ballpoint Pen Killed Cursive"
 
-"How the Ballpoint Pen Killed Cursive - Thicker ink, fewer smudges, and more strained hands: an Object Lesson"
+dek: "Thicker ink, fewer smudges, and more strained hands: an Object Lesson"
 
-by := Josh Giesbrecht
+=> https://www.theatlantic.com/technology/archive/2015/08/ballpoint-pens-object-lesson-history-handwriting/402205/ The Atlantic / by Josh Giesbrecht
 
 # Commemorated on this date

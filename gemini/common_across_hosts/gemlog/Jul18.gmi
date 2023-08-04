@@ -2,16 +2,16 @@
 
 ## In 2022
 
-=> https://www.newyorker.com/magazine/2022/07/25/the-haves-and-the-have-yachts
+### "The Haves and the Have-Yachts"
 
-"The Haves and the Have-Yachts - Luxury ships attract outrage and political scrutiny. The ultra-rich are buying them in record numbers."
+dek: "Luxury ships attract outrage and political scrutiny. The ultra-rich are buying them in record numbers."
 
-"I found a handwritten welcome note, on embossed club stationery, set alongside an orchid and ... chocolate truffles: “The whole team remains at your entire disposal to make your stay a wonderful experience. Yours sincerely, Service Members.”"
+=> https://www.newyorker.com/magazine/2022/07/25/the-haves-and-the-have-yachts The New Yorker / by Evan Osnos
 
-"July 18, 2022"
-
-"July 25, 2022 Issue"
-
-by := Evan Osnos
+> "July 18, 2022"
+> 
+> "July 25, 2022 Issue"
+>
+> "I found a handwritten welcome note, on embossed club stationery, set alongside an orchid and ... chocolate truffles: “The whole team remains at your entire disposal to make your stay a wonderful experience. Yours sincerely, Service Members.”"
 
 # Commemorated on this date

@@ -2,22 +2,20 @@
 
 ## In 2015
 
-=> https://www.politico.com/magazine/story/2015/05/the-gop-is-dying-off-literally-118035/
+### "The GOP Is Dying Off. Literally."
 
-"The GOP Is Dying Off. Literally."
+=> https://www.politico.com/magazine/story/2015/05/the-gop-is-dying-off-literally-118035/ Politico / by Daniel J. McGraw
 
-"... of the 61 million who voted for Mitt Romney in 2012, about 2.75 million will be dead by the 2016 election. ... about 2.3 million of the 66 million who voted for [Obama] won’t make it to 2016 either. That leaves a big gap in between, a difference of roughly 453,000 ..."
-
-"The mortality rate for 70-to-74 year-olds is 6,058.4 per 100,000 each year, compared to 110.1 for the 30-to-34 age group."
-
-by := Daniel J. McGraw
+> "... of the 61 million who voted for Mitt Romney in 2012, about 2.75 million will be dead by the 2016 election. ... about 2.3 million of the 66 million who voted for [Obama] won’t make it to 2016 either. That leaves a big gap in between, a difference of roughly 453,000 ..."
+> 
+> "The mortality rate for 70-to-74 year-olds is 6,058.4 per 100,000 each year, compared to 110.1 for the 30-to-34 age group."
 
 ## In 2021
 
-=> https://www.cnet.com/news/nikola-tesla-invention-from-100-years-ago-suddenly-makes-more-sense-today/
+### "Nikola Tesla invention from 100 years ago suddenly makes more sense today"
 
-"Nikola Tesla invention from 100 years ago suddenly makes more sense today - The eccentric inventor is known for dabbling with electricity, but his Tesla valve is impressing scientists anew."
+dek: "The eccentric inventor is known for dabbling with electricity, but his Tesla valve is impressing scientists anew."
 
-by := Eric Mack
+=> https://www.cnet.com/news/nikola-tesla-invention-from-100-years-ago-suddenly-makes-more-sense-today/ Cnet / by Eric Mack
 
 # Commemorated on this date

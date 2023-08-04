@@ -2,12 +2,10 @@
 
 ## In 2023
 
-=> https://www.cnbc.com/2023/03/27/lebanon-in-two-different-time-zones-as-government-disagrees-on-daylight-savings.html
+### "Lebanon wakes up in two simultaneous time zones as government can’t agree on daylight saving change"
 
-"Lebanon wakes up in two simultaneous time zones as government can’t agree on daylight saving change"
+=> https://www.cnbc.com/2023/03/27/lebanon-in-two-different-time-zones-as-government-disagrees-on-daylight-savings.html CNBC / by Natasha Turak
 
 "... Lebanon’s cabinet had voted to rectify the issue and move the clocks forward by one hour on Wednesday night."
-
-by := Natasha Turak
 
 # Commemorated on this date

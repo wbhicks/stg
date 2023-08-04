@@ -22,66 +22,62 @@ Ex4t of ("Extended Heredity: A New Understanding of Inheritance and Evolution" b
 
 Copy of 1909 public domain book "Field and Woodland Plants, by William S. Furneaux, Illustrated by Patten Wilson"
 
-## Book reviews
+## Reviews of the book _The Free World: Art and Thought in the Cold War_
 
-### Paired book reviews
+### Review by David Oshinsky of _The Free World: Art and Thought in the Cold War_ by Louis Menand
 
-=> https://www.nytimes.com/2021/04/21/books/review/louis-menand-the-free-world.html
-
-Review of ("THE FREE WORLD: Art and Thought in the Cold War" By Louis Menand)
-
-by := David Oshinsky
 on := 2021-04-21
 
-=> https://www.theatlantic.com/magazine/archive/2021/06/louis-menand-the-free-world-cold-war/618713/
+=> https://www.nytimes.com/2021/04/21/books/review/louis-menand-the-free-world.html NYT / by David Oshinsky
 
-Review of ("THE FREE WORLD: Art and Thought in the Cold War" By Louis Menand)
+### Review by Mark Greif of _The Free World: Art and Thought in the Cold War_ by Louis Menand
 
-by := Mark Greif
 on := 2021-05-05
 
-### Compound book reviews
+=> https://www.theatlantic.com/magazine/archive/2021/06/louis-menand-the-free-world-cold-war/618713/ The Atlantic / by Mark Greif
 
-=> https://www.atlasobscura.com/articles/cookbook-from-soviet-union
+## Review by Dalia Wolfson of _The Soviet Diet Cookbook: Exploring life, culture and history - one recipe at a time_ (2020) by Anna Kharzeeva and of _The Book About Delicious and Healthy Food_ (1939, USSR)
 
-Review of ("The Book About Delicious and Healthy Food", 1939, USSR)
+=> https://www.atlasobscura.com/articles/cookbook-from-soviet-union Atlas Obscura / by Dalia Wolfson
 
-Review of ("The Soviet Diet Cookbook: Exploring life, culture and history - one recipe at a time" by Anna Kharzeeva, 2020)
+// consisting of:
+// Review of ("The Book About Delicious and Healthy Food", 1939, USSR)
+// Review of ("The Soviet Diet Cookbook: Exploring life, culture and history - one recipe at a time" by Anna Kharzeeva, 2020)
 
-by := daliawolfson
+## Other book reviews
 
-### Other book reviews
+### Review by Asa Gray (1860) of _On the Origin of Species by Means of Natural Selection_ by Charles Darwin
 
-=> https://www.theatlantic.com/magazine/archive/1860/07/darwin-on-the-origin-of-species/304152/
+=> https://www.theatlantic.com/magazine/archive/1860/07/darwin-on-the-origin-of-species/304152/ The Atlantic / by Asa Gray
 
-Review of ("On the Origin of Species by Means of Natural Selection" by Charles Darwin)
-
-by := Asa Gray
 on := 1860-07-nn
 
-=> https://publicdomainreview.org/collection/agostino-ramelli-theatre-of-machines
+### Review by Hunter Dukes of _Le diverse et artificiose machine [Diverse And Artificial Machines]_ by Agostino Ramelli (1588)
 
-Review of ("Le diverse et artificiose machine [Diverse and artificial machines]" by Agostino Ramelli, 1588)
+=> https://publicdomainreview.org/collection/agostino-ramelli-theatre-of-machines PDR / by Hunter Dukes
 
-=> https://lareviewofbooks.org/article/descartess-evil-genius/
+by := 2021-04-01
 
-Review of ("Cartesian Poetics: The Art of Thinking" by Andrea Gadberry, 2021)
+### Review by Ross Wilson of _Cartesian Poetics: The Art of Thinking_ by Andrea Gadberry (2021)
 
-by := Ross Wilson
+=> https://lareviewofbooks.org/article/descartess-evil-genius/ Los Angeles Review of Books / by Ross Wilson
+
 on := 2021-08-09
+
+### Review by Kevin Dann of _Design in Nature_ by James Bell Pettigrew (1908)
 
 => https://publicdomainreview.org/essay/the-spiralist
 
-Review of ("Design in Nature" by James Bell Pettigrew, 1908)
-
-by := Kevin Dann
 on := 2021-08-05
 
 ## Reviews of films and other video
 
-=> https://scrapsfromtheloft.com/2018/01/18/the-french-connection-urban-gothic-pauline-kael/
+### Review by Pauline Kael of the film _The French Connection_
 
-Review of the film "The French Connection"
+=> https://scrapsfromtheloft.com/2018/01/18/the-french-connection-urban-gothic-pauline-kael/ Scraps from the Loft / by Pauline Kael
+
+review title := "The French Connection: Urban Gothic"
+review date := 1971-10-30
 
 Kael, by citing the then-recent movies ...
 
@@ -104,28 +100,17 @@ Kael, by citing the then-recent movies ...
 * The Steagle
 * Where’s Poppa?
 
-... argues that "... The city of New York has ... given movies a new spirit of nervous, anxious hopelessness, which is the true spirit of New York."
+... argues that "... The city of New York has ... given movies a new spirit of nervous, anxious hopelessness, which is the true spirit of New York. ... This right-wing, left-wing, take-your-choice cynicism is total commercial opportunism passing itself off as an Existential view. ... to make the cops-and-robbers melodrama superficially modern by making it meaningless ..."
 
-"This right-wing, left-wing, take-your-choice cynicism is total commercial opportunism passing itself off as an Existential view. ... to make the cops-and-robbers melodrama superficially modern by making it meaningless ..."
+### "30 Singular Films to Watch in Quarantine"
 
-review title := "The French Connection: Urban Gothic"
+=> https://www.theatlantic.com/culture/archive/2020/05/30-singular-films-watch-quarantine/611956/ The Atlantic
 
-review by := Pauline Kael
+### Review by Mark Frauenfelder of the industrial film _Word Processing: The Pivot Point_ (1975)
 
-review date := 1971-10-30
-
-=> https://www.theatlantic.com/culture/archive/2020/05/30-singular-films-watch-quarantine/611956/
-
-"30 Singular Films to Watch in Quarantine - The Atlantic"
-
-=> https://boingboing.net/2023/04/25/1975-film-captures-the-heartbreaking-transition-from-countercultural-free-spirits-to-corporate-office-drones.html
-
-Review of the industrial film ("Word Processing: The Pivot Point", 1975)
+=> https://boingboing.net/2023/04/25/1975-film-captures-the-heartbreaking-transition-from-countercultural-free-spirits-to-corporate-office-drones.html Boing Boing / by Mark Frauenfelder
 
 review title := "1975 film captures the heartbreaking transition from countercultural free spirits to corporate office drones"
-
-review by := MARK FRAUENFELDER
-
 review date := 2023-04-25
 
 ### Some mid-to-late-20th century US film critics
