@@ -1,20 +1,20 @@
-# Published on this date## In 2021
+# Published on this date
 
-=> https://www.nytimes.com/2021/04/17/business/california-homeless-hotels.html
+## In 2021
 
-"One Way to Get People Off the Streets: Buy Hotels - For homeless people, a place to live is life changing to a degree that almost no other intervention can provide."
+### "One Way to Get People Off the Streets: Buy Hotels"
 
-by := Conor Dougherty
+dek: "For homeless people, a place to live is life changing to a degree that almost no other intervention can provide."
 
-# Published on this date## In 2023
+=> https://www.nytimes.com/2021/04/17/business/california-homeless-hotels.html NYT / by Conor Dougherty
 
-=> https://www.bbc.com/news/world-europe-64426289
+## In 2023
 
-"How Gerard Hutch murder trial made international headlines"
+### "How Gerard Hutch murder trial made international headlines"
 
-"Gerard Hutch has been cleared of murdering 33-year-old David Byrne during a boxing weigh-in at Dublin's Regency Airport Hotel in 2016. Former Sinn Féin councillor Jonathan Dowdall had been charged with the murder but pleaded guilty to the lesser offence of facilitating murder. The murder was part of the Hutch-Kinahan gang feud that has claimed 18 lives."
+=> https://www.bbc.com/news/world-europe-64426289 BBC / by Shane Harrison
 
-by := Shane Harrison
+Writing for the BBC, Shane Harrison reports that "Gerard Hutch has been cleared of murdering 33-year-old David Byrne during a boxing weigh-in at Dublin's Regency Airport Hotel in 2016. Former Sinn Féin councillor Jonathan Dowdall had been charged with the murder but pleaded guilty to the lesser offence of facilitating murder. The murder was part of the Hutch-Kinahan gang feud that has claimed 18 lives."
 
 # Commemorated on this date
 

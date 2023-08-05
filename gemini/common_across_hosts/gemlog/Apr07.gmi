@@ -1,11 +1,13 @@
-# Published on this date## In 2023
+# Published on this date
 
-=> https://www.theatlantic.com/ideas/archive/2023/04/wisconsin-supreme-court-election-republican-party/673656/
+## In 2023
 
-"How Wisconsin Republicans Got So Angry - They’ve lost four major statewide elections since 2018, for starters, and this year’s supreme-court election exposed their growing vulnerability."
+### "How Wisconsin Republicans Got So Angry"
 
-"Wisconsin Republicans are caught in a bind: What the base wants, the majority rejects."
+dek: "They’ve lost four major statewide elections since 2018, for starters, and this year’s supreme-court election exposed their growing vulnerability."
 
-by := Charles Sykes
+=> https://www.theatlantic.com/ideas/archive/2023/04/wisconsin-supreme-court-election-republican-party/673656/ The Atlantic / by Charles Sykes
+
+> "Wisconsin Republicans are caught in a bind: What the base wants, the majority rejects."
 
 # Commemorated on this date

@@ -11,6 +11,7 @@
 ~ [1]: Or, perhaps equally well, the X axis can show a county's distance from the nearest metropolitan core, i.e. on a scale from periphery to centrality. Some of the studies Edsall cites use such a model, but others use pure population density.
 
 ```
+~
 Fig. 1 - A long time ago:        Fig. 2 - Not too long ago:       Fig. 3 - Now:
 
 lean |                           lean |                           lean |

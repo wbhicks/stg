@@ -1,31 +1,31 @@
-# Published on this date## In 2021
+# Published on this date
 
-=> https://www.nytimes.com/2021/04/21/technology/welcome-to-the-yolo-economy.html
+## In 2021
 
-"Welcome to the YOLO Economy - Burned out and flush with savings, some workers are quitting stable jobs in search of postpandemic adventure."
+### "Welcome to the YOLO Economy"
 
-by := Kevin Roose
+dek: "Burned out and flush with savings, some workers are quitting stable jobs in search of postpandemic adventure."
 
-=> https://www.npr.org/2021/04/21/989333092/the-secret-mission-to-unearth-part-of-a-142-year-old-experiment
+=> https://www.nytimes.com/2021/04/21/technology/welcome-to-the-yolo-economy.html NYT / by Kevin Roose
 
-"The Secret Mission To Unearth Part Of A 142-Year-Old Experiment"
+### "The Secret Mission To Unearth Part Of A 142-Year-Old Experiment"
 
-by := Nell Greenfieldboyce
+=> https://www.npr.org/2021/04/21/989333092/the-secret-mission-to-unearth-part-of-a-142-year-old-experiment NPR / by Nell Greenfieldboyce
 
-=> https://www.newyorker.com/culture/comma-queen/grammar-nerd-heaven
+[n.b. surname is correct]
 
-"Grammar-Nerd Heaven - A new exhibit showcases the surprisingly contentious history of English grammar books."
+### "Grammar-Nerd Heaven"
 
-by := Mary Norris
+dek: "A new exhibit showcases the surprisingly contentious history of English grammar books."
 
-# Published on this date## In 2023
+=> https://www.newyorker.com/culture/comma-queen/grammar-nerd-heaven The New Yorker / by Mary Norris
 
-=> https://www.latimes.com/california/story/2023-04-21/spolin-lawyer-sentence-shortening-hopes
+## In 2023
 
-"A California lawyer cashed in on criminal justice reform by fanning the hopes of inmates’ families"
+### "A California lawyer cashed in on criminal justice reform by fanning the hopes of inmates’ families"
 
-"Karen Marquez holds a framed photograph of her husband, Johnathan, who is serving a life sentence for murder. She and her mother-in-law paid $12,700 in fees to Aaron Spolin’s law firm — money they now believe was wasted."
+=> https://www.latimes.com/california/story/2023-04-21/spolin-lawyer-sentence-shortening-hopes Los Angeles Times / by Harriet Ryan
 
-by := HARRIET RYAN
+> "Karen Marquez holds a framed photograph of her husband, Johnathan, who is serving a life sentence for murder. She and her mother-in-law paid $12,700 in fees to Aaron Spolin’s law firm — money they now believe was wasted."
 
 # Commemorated on this date

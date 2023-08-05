@@ -1,17 +1,19 @@
-# Published on this date## In 2023
+# Published on this date
 
-=> https://newrepublic.com/article/171722/republican-party-dead
+## In 2023
 
-"The (Republican) Party’s Over - We asked four recovering Republicans if the GOP is salvageable. Hint: They laughed."
+### "The (Republican) Party’s Over"
+
+dek: "We asked four recovering Republicans if the GOP is salvageable. Hint: They laughed."
+
+=> https://newrepublic.com/article/171722/republican-party-dead TNR / by Michael Tomasky
 
 "Michael Tomasky gathered four close observers ... of the Republican Party: Michael Steele, ... Juleanna Glover, ... Max Boot, ... and Nicolle Wallace ..."
 
-by := Michael Tomasky
+### "Name Above the Movie Title? How About in It?"
 
-=> https://www.nytimes.com/2023/04/20/movies/guy-ritchies-the-covenant-movie-titles.html
+dek: "With the release of “Guy Ritchie’s The Covenant,” here’s a look at the occasional phenomenon of directors branding movies with their own names."
 
-"Name Above the Movie Title? How About in It? - With the release of “Guy Ritchie’s The Covenant,” here’s a look at the occasional phenomenon of directors branding movies with their own names."
-
-by := Leah Greenblatt
+=> https://www.nytimes.com/2023/04/20/movies/guy-ritchies-the-covenant-movie-titles.html NYT / by Leah Greenblatt
 
 # Commemorated on this date

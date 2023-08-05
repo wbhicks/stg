@@ -1,11 +1,11 @@
-# Published on this date## In 2023
+# Published on this date
 
-=> https://www.nytimes.com/2023/04/24/opinion/new-york-city-affordability-housing.html
+## In 2023
 
-"What’s the Matter With New York?"
+### "What’s the Matter With New York?"
 
-"The biggest factor, almost surely, was and is the cost of housing."
+=> https://www.nytimes.com/2023/04/24/opinion/new-york-city-affordability-housing.html NYT / by Paul Krugman
 
-by := Paul Krugman
+> "The biggest factor, almost surely, was and is the cost of housing."
 
 # Commemorated on this date

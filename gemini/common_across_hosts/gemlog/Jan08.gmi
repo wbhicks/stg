@@ -8,9 +8,7 @@ dek: "Marian Goodman Gallery and MoMA are reviving interest in multiples -- art 
 
 => https://www.nytimes.com/2021/01/08/arts/design/affordable-multiple-goodman-art.html NYT / by Blake Gopnik
 
-~ Referring to contemporary artist Danh Võ, Blake Gopnik writes:
-
-> "Mr. Vo sees the letter’s almost trivial price tag as adding conceptual heft to the piece."
+> Referring to contemporary artist Danh Võ, Blake Gopnik writes: "Mr. Vo sees the letter’s almost trivial price tag as adding conceptual heft to the piece."
 
 ~ The social significance attached by some artists to the extremely low prices of their multiples has, I think, a close analogue in the infinite reproducibility of digital art, which some (most?) digital artists consider to be both good and intrinsic to their work.
 

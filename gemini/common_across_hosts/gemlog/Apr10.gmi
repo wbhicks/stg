@@ -1,9 +1,9 @@
-# Published on this date## In 2023
+# Published on this date
 
-=> https://www.washingtonpost.com/food/interactive/2023/edna-lewis-menu-trail-virginia/
+## In 2023
 
-"On the Edna Lewis Menu Trail, a toast to an iconic chef and her hometown"
+### "On the Edna Lewis Menu Trail, a toast to an iconic chef and her hometown"
 
-by := Aaron Hutcherson
+=> https://www.washingtonpost.com/food/interactive/2023/edna-lewis-menu-trail-virginia/ WaPo / by Aaron Hutcherson
 
 # Commemorated on this date

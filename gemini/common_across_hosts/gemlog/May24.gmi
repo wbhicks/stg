@@ -1,24 +1,34 @@
-# Published on this date in ...
+# Published on this date
+
+## In 2022
+
+### "As office-centric downtowns struggle, suburbs cater to the laptop crowd"
+
+dek: "Developers are adding outdoor co-working space — bocce ball, anyone? — to attract remote workers to stores and restaurants"
+
+=> https://www.washingtonpost.com/transportation/2022/05/24/pandemic-suburbs-downtown-retail/ WaPo / by Katherine Shaver
 
 # Commemorated on this date
 
-On this date in 2023, Sierra Leone's symbolic Cotton Tree was felled by a storm:
+## On this date in 2023, the symbolic Cotton Tree in Freetown, Sierra Leone, was felled by a storm:
 
-=> https://www.bbc.com/news/world-africa-65707394
+### "Sierra Leone's iconic cotton tree felled by storm"
 
-"Sierra Leone's iconic cotton tree felled by storm"
+=> https://www.bbc.com/news/world-africa-65707394 BBC / by Umaru Fofana in Freetown & Robert Greenall in London
 
-by := Umaru Fofana in Freetown & Robert Greenall in London
 date := 2023-05-25
 
-=> https://www.theguardian.com/world/2023/may/25/sierra-leone-symbolic-cotton-tree-falls-during-storm-in-freetown
+### "Sierra Leone’s symbolic Cotton Tree falls during storm in Freetown"
 
-"Sierra Leone’s symbolic Cotton Tree falls during storm in Freetown -- Centuries-old Ceiba pentandra marked where formerly enslaved people had prayed upon arrival in west Africa"
+dek: "Centuries-old Ceiba pentandra marked where formerly enslaved people had prayed upon arrival in west Africa"
 
-by := Agence France-Presse in Freetown
+=> https://www.theguardian.com/world/2023/may/25/sierra-leone-symbolic-cotton-tree-falls-during-storm-in-freetown The Guardian / by Agence France-Presse in Freetown
+
 date := 2023-05-25
 
-=> https://en.wikipedia.org/wiki/Cotton_Tree_(Sierra_Leone)
+### Coverage in Wikipedia
+
+=> https://en.wikipedia.org/wiki/Cotton_Tree_(Sierra_Leone) WP / Cotton Tree (Sierra Leone)
 
 "On 24 May 2023, a heavy rain storm felled the cotton tree with only the lower part of its enormous trunk still standing."
 

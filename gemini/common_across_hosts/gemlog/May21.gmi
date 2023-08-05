@@ -1,4 +1,27 @@
-# Published on this date in ...
+# Published on this date
+
+## In 2019
+
+### "Why Workers Without College Degrees Are Fleeing Big Cities"
+
+=> https://www.nytimes.com/interactive/2019/05/21/business/economy/migration-big-cities.html NYT / by Eduardo Porter and Guilbert Gates
+
+> "But as my colleagues Emily Badger and Quoctrung Bui noted recently in an article citing the work of the M.I.T. economist David Autor, big cities have lost their luster for workers without four-year college degrees."
+
+```
+Data from the article: Change in personal earnings, after adjusting for housing costs, if moving to Santa Clara County, California from the "Deep South" ("the weighted average of Alabama, Arkansas, Georgia, South Carolina and Mississippi"):
+
+                In 1960    In 2017
+               --------   --------
+
+For a janitor: +107 pct    -28 pct
+
+For a lawyer:    -1 pct    +44 pct
+```
+
+Citations:
+=> https://www.nytimes.com/2019/01/11/upshot/big-cities-low-skilled-workers-wages.html
+=> https://www.nber.org/papers/w25588
 
 # Commemorated on this date
 

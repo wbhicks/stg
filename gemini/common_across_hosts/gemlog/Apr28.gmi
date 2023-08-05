@@ -1,9 +1,11 @@
-# Published on this date## In 2023
+# Published on this date
 
-=> https://www.politico.com/news/magazine/2023/04/28/jim-vandehei-profile-00094172
+## In 2023
 
-"Jim VandeHei’s Surreal Wellness Evolution - D.C.’s most surprising leadership column, and what it says about how the knowledge industry works now."
+### "Jim VandeHei’s Surreal Wellness Evolution"
 
-by := Michael Schaffer
+dek: "D.C.’s most surprising leadership column, and what it says about how the knowledge industry works now."
+
+=> https://www.politico.com/news/magazine/2023/04/28/jim-vandehei-profile-00094172 Politico / by Michael Schaffer
 
 # Commemorated on this date
