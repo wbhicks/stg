@@ -1,0 +1,77 @@
+---
+- id: shl1_payload
+  start_states:
+  - SectionHeaderLevel1
+  path_focus:
+  - ''
+  - ''
+  variants:
+  - ^(Publish|Commemorat)ed on this date$
+  - ^ZXCV$
+  captures:
+  - ''
+  active: true
+- id: shl2_payload_top
+  start_states:
+  - SectionHeaderLevel2
+  path_focus:
+  - path1
+  - Published on this date
+  variants:
+  - ^In 20[1-2][0-9]$
+  captures:
+  - (20[1-2][0-9])
+  active: true
+- id: shl2_payload_bottom
+  start_states:
+  - SectionHeaderLevel2
+  path_focus:
+  - path1
+  - Commemorated on this date
+  variants:
+  - ^Deaths of \.\.\.$
+  - ^Observances$
+  - ^On this date in [0-9]+,
+  - ^[0-9]{4}[:]
+  captures:
+  - ''
+  active: true
+- id: shl3_payload
+  start_states:
+  - SectionHeaderLevel3
+  path_focus:
+  - path2
+  - In 20[1-2][0-9]
+  variants:
+  - ^"[a-zA-Z0-9 .:,$?!)('‘’-]+"$
+  - ^Review by [a-zA-Z ]+ of _[a-zA-Z0-9 ,:]+_ by [a-zA-Z ]+$
+  - ^Posted by [a-zA-Z .]+ \(@[a-zA-Z0-9_]+\) on [a-zA-Z]+$
+  captures:
+  - ''
+  active: true
+- id: ell3_payload
+  start_states:
+  - ExternalLinkLevel1
+  - ExternalLinkLevel2
+  - ExternalLinkLevel3
+  path_focus:
+  - path1
+  - (Published|Commemorated) on this date
+  variants:
+  - ^https://en.wikipedia.org/wiki/[a-zA-Z0-9%!)(_]+ WP / [a-zA-Z0-9"!)( ,.–-]+$
+  - ^https://[a-zA-Z0-9./-]+ NPR / by [a-zA-Z. ]+$
+  - ^https://[a-zA-Z0-9./-]+ [A-Za-z .-]+ / by [a-zA-Z. ]+$
+  - ^https://[a-zA-Z0-9./%_-]+ [A-Za-z .-]+ / by [a-zA-Z. -]+$
+  - ^http://[a-zA-Z0-9./%_-]+ draft / by Jacob R. Brown et al.$
+  - ^https://[a-zA-Z0-9./%-]+ [A-Za-z .-]+ / by [a-zA-Z. ]+ \([12][0-9]{3}\)$
+  - ^https://[a-zA-Z0-9./-]+ [A-Za-z ]+ / by [a-zA-Z ]+ "[a-zA-Z]+" [a-zA-Z ]+$
+  - ^https://[a-zA-Z0-9./-]+ [A-Za-z ]+ / [a-zA-Z ]+$
+  - ^https://[a-zA-Z0-9./_-]+$
+  - ^https://www.nbcnews.com/nbc-out NBC Out$
+  - ^https://www.pewresearch.org/[a-zA-Z0-9./-]+ Pew Research Center$
+  - ^https://books\.google\.com/books\?id=15JUAAAAcAAJ&pg=PT491#v=onepage&q=February%2027 .+$
+  - ^https://www\.bbc\.com/news/world-africa-65707394 BBC / by Umaru Fofana in Freetown & Robert Greenall in London$
+  captures:
+  - ^https://en.(wikipedia).org/wiki/
+  - ^https://(?:www\.)?(nytimes).com/
+  active: true
