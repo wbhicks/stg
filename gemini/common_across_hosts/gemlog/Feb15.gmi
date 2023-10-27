@@ -13,4 +13,4 @@ dek: "There’s a growing crisis in our social lives. Could the cure be this sim
 # Commemorated on this date
 
 1946: University of Pennsylvania hosts the official dedication of ENIAC ("Electronic Numerical Integrator And Computer"). See also:
-=> https://en.wikipedia.org/wiki/Manchester_Baby
+=> https://en.wikipedia.org/wiki/Manchester_Baby WP / Manchester Baby
